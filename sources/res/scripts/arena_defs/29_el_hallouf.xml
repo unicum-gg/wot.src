@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:29_el_hallouf/name</name>
+	<description>#arenas:29_el_hallouf/description</description>
+	<geometry>spaces/29_el_hallouf</geometry>
+	<boundingBox>
+		<bottomLeft>
+			-500.0 -500.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			500.0 500.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<roundLength>900</roundLength>
+	<minimapConfig>
+		<spaceMap>spaces/29_el_hallouf/mmap.dds</spaceMap>
+	</minimapConfig>
+	<maxPlayersInTeam>15</maxPlayersInTeam>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+</root>

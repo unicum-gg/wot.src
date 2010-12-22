@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:15_komarin/name</name>
+	<description>#arenas:15_komarin/description</description>
+	<geometry>spaces/15_komarin</geometry>
+	<roundLength>900</roundLength>
+	<boundingBox>
+		<bottomLeft>
+			-400.0 -400.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			400.0 400.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<minimapConfig>
+		<spaceMap>spaces/15_komarin/mmap.dds</spaceMap>
+	</minimapConfig>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<loadingMusic>/music/intro/rus_city</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+</root>

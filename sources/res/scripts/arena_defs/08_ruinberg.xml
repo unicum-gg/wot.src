@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:08_ruinberg/name</name>
+	<description>#arenas:08_ruinberg/description</description>
+	<geometry>spaces/08_ruinberg</geometry>
+	<roundLength>900</roundLength>
+	<boundingBox>
+		<bottomLeft>
+			-400.0 -400.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			400.0 400.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<minimapConfig>
+		<spaceMap>spaces/08_ruinberg/mmap.dds</spaceMap>
+	</minimapConfig>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<defaultGroundEffect>None</defaultGroundEffect>
+	<loadingMusic>/music/intro/euro_city</loadingMusic>
+</root>

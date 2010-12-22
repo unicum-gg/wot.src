@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:02_malinovka/name</name>
+	<description>#arenas:02_malinovka/description</description>
+	<geometry>spaces/02_malinovka</geometry>
+	<roundLength>900</roundLength>
+	<boundingBox>
+		<bottomLeft>
+			-500.0 -500.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			500.0 500.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<minimapConfig>
+		<spaceMap>spaces/02_malinovka/mmap.dds</spaceMap>
+	</minimapConfig>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<loadingMusic>/music/intro/Intro_Malinovka</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+</root>

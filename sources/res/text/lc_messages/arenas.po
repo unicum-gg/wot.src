@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "00_planb_testsite/description"
+msgstr "?empty?"
+
+msgid "00_planb_testsite/name"
+msgstr "Training Area"
+
+msgid "01_karelia/description"
+msgstr ""
+"Swamps, rocks and cliffs determine major avenues of approach on this map. "
+"This map, with  sparse protection and no buildings, gives the combat "
+"advantage to artillery. Concentrate your attacks along the path of your main"
+" advance, while conducting delaying and defensive actions along the rest of "
+"your front lines."
+
+msgid "01_karelia/name"
+msgstr "Karelia"
+
+msgid "02_malinovka/description"
+msgstr ""
+"Initial staging areas are separated by a wide open field, ideal for "
+"artillery and defensive operations. Make use of flanking maneuvers and "
+"natural defenses like woods, hills and farmhouses, as these can be decisive."
+" Another option is a well-coordinated high-speed combined arms attack across"
+" the field, which could bring victory, at the risk of a bloody loss."
+
+msgid "02_malinovka/name"
+msgstr "Malinovka"
+
+msgid "02_malinovka_4CT_mode/description"
+msgstr ""
+"Each team defends two bases, so a combination of firepower and maneuver is "
+"necessary to succeed. Frontal attacks across exposed fields are risky, but "
+"outflanking through sparse groups of trees could lead to smaller fights "
+"whittling away your forces and thus be decisive."
+
+msgid "02_malinovka_4CT_mode/name"
+msgstr "Malinovka 4 Bases"
+
+msgid "04_himmelsdorf/description"
+msgstr ""
+"A labyrinth of streets and squares, impassable for artillery and tank "
+"destroyers, but ideal for speedy breakthrough and bypass by medium and light"
+" vehicles. Access roads running by the hill, with the castle that dominates "
+"the area, and along the railway lines can help you out of the impasse."
+
+msgid "04_himmelsdorf/name"
+msgstr "Himmelsdorf"
+
+msgid "05_prohorovka/description"
+msgstr ""
+"Generally open, but hilly, terrain around a vital railroad, with groups of "
+"trees providing shelter for tank destroyers. On the offensive, watch your "
+"own flanks while striking against the enemy flanks. Artillery has free "
+"reign, although it is still vulnerable to raids by light vehicles."
+
+msgid "05_prohorovka/name"
+msgstr "Prokhorovka"
+
+msgid "06_ensk/description"
+msgstr ""
+"A mixture of city outskirts and suburban areas with railroad tracks running "
+"across. Plan your tactics to take advantage of defensive chokepoints and "
+"cover open areas with your vehicles. Artillery is great for deterring enemy "
+"breakthroughs, but remains almost defenseless when exposed to enemy vehicles"
+" attacking from cover."
+
+msgid "06_ensk/name"
+msgstr "Ensk"
+
+msgid "07_lakeville/description"
+msgstr ""
+"An isolated mountain valley on one flank and city blocks on the other allow "
+"you to thrust close enough to the enemy. A large lake in the middle gives "
+"long-range weapons a clear field of fire."
+
+msgid "07_lakeville/name"
+msgstr "Lakeville"
+
+msgid "08_ruinberg/description"
+msgstr ""
+"Concentric city streets, along with dense forests and bushes in the "
+"overgrown park allow for hidden maneuvers and redeployment of your troops. "
+"Although artillery fire is of limited use in the city, the debris provides "
+"effective cover for your troops."
+
+msgid "08_ruinberg/name"
+msgstr "Ruinberg"
+
+msgid "09_hutora/description"
+msgstr "?empty?"
+
+msgid "09_hutora/name"
+msgstr "zFrozen Farms"
+
+msgid "10_hills/description"
+msgstr "?empty?"
+
+msgid "10_hills/name"
+msgstr "Pagorki"
+
+msgid "11_murovanka/description"
+msgstr "?empty?"
+
+msgid "11_murovanka/name"
+msgstr "Murovanka"
+
+msgid "12_scorched_earth/description"
+msgstr "Battle through the burned-out no man's land to victory!"
+
+msgid "12_scorched_earth/name"
+msgstr "Scorched Earth"
+
+msgid "13_erlenberg/description"
+msgstr "?empty?"
+
+msgid "13_erlenberg/name"
+msgstr "Erlenberg"
+
+msgid "14_siegfried_line/description"
+msgstr "?empty?"
+
+msgid "14_siegfried_line/name"
+msgstr "Siegfried Line"
+
+msgid "15_komarin/description"
+msgstr "?empty?"
+
+msgid "15_komarin/name"
+msgstr "Komarin"
+
+msgid "16_carpaty/description"
+msgstr "?empty?"
+
+msgid "16_carpaty/name"
+msgstr "zFrozen Carpathians"
+
+msgid "17_siberia/description"
+msgstr "?empty?"
+
+msgid "17_siberia/name"
+msgstr "zFrozen Siberia"
+
+msgid "18_cliff/description"
+msgstr "?empty?"
+
+msgid "18_cliff/name"
+msgstr "Cliff"
+
+msgid "19_falkland/description"
+msgstr "?empty?"
+
+msgid "19_falkland/name"
+msgstr "zFrozen Falkland Islands"
+
+msgid "19_monastery/description"
+msgstr "?empty?"
+
+msgid "19_monastery/name"
+msgstr "Abbey"
+
+msgid "20_el-alameen/description"
+msgstr "?empty?"
+
+msgid "20_el-alameen/name"
+msgstr "zFrozen El Alamein"
+
+msgid "22_slough/description"
+msgstr "?empty?"
+
+msgid "22_slough/name"
+msgstr "Swamp"
+
+msgid "23_westfeld/description"
+msgstr "?empty?"
+
+msgid "23_westfeld/name"
+msgstr "Westfield"
+
+msgid "24_canyon/description"
+msgstr "?empty?"
+
+msgid "24_canyon/name"
+msgstr "zFrozen Canyon"
+
+msgid "26_river_valley/description"
+msgstr "?empty?"
+
+msgid "26_river_valley/name"
+msgstr "zFrozen River Vale"
+
+msgid "27_ardennes/description"
+msgstr "?empty?"
+
+msgid "27_ardennes/name"
+msgstr "Ardennes"
+
+msgid "28_desert/description"
+msgstr "?empty?"
+
+msgid "28_desert/name"
+msgstr "Sand River"
+
+msgid "29_el_hallouf/description"
+msgstr "?empty?"
+
+msgid "29_el_hallouf/name"
+msgstr "El Halluf"
+
+msgid "30_africa_airfield/description"
+msgstr "?empty?"
+
+msgid "30_africa_airfield/name"
+msgstr "zFrozen Airfield"
+
+msgid "31_desert_storm/description"
+msgstr "?empty?"
+
+msgid "31_desert_storm/name"
+msgstr "Djarbah"
+
+msgid "33_fjord/description"
+msgstr "?empty?"
+
+msgid "33_fjord/name"
+msgstr "Fjords"
+
+msgid "34_redshire/description"
+msgstr "Land of the Little People"
+
+msgid "34_redshire/name"
+msgstr "Redshire"
+
+msgid "35_steppes/description"
+msgstr "?empty?"
+
+msgid "35_steppes/name"
+msgstr "Prairies"
+
+msgid "36_fishing_bay/description"
+msgstr "?empty?"
+
+msgid "36_fishing_bay/name"
+msgstr "Fisherman's Bay"
+
+msgid "37_caucasus/description"
+msgstr "?empty?"
+
+msgid "37_caucasus/name"
+msgstr "Caucasus"
+
+msgid "38_mannerheim_line/description"
+msgstr "Frosty morning in Karelia"
+
+msgid "38_mannerheim_line/name"
+msgstr "Mannerheim Line"
+
+msgid "39_crimea/description"
+msgstr "?empty?"
+
+msgid "39_crimea/name"
+msgstr "Crimea"

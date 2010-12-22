@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:06_ensk/name</name>
+	<description>#arenas:06_ensk/description</description>
+	<geometry>spaces/06_ensk</geometry>
+	<boundingBox>
+		<bottomLeft>
+			-300.0 -300.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			300.0 300.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<roundLength>900</roundLength>
+	<minimapConfig>
+		<spaceMap>spaces/06_ensk/mmap.dds</spaceMap>
+	</minimapConfig>
+	<defaultGroundEffect>None</defaultGroundEffect>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<loadingMusic>/music/intro/rus_city</loadingMusic>
+</root>

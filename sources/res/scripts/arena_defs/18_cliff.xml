@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:18_cliff/name</name>
+	<description>#arenas:18_cliff/description</description>
+	<geometry>spaces/18_cliff</geometry>
+	<roundLength>900</roundLength>
+	<boundingBox>
+		<bottomLeft>
+			-500.0 -500.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			500.0 500.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<minimapConfig>
+		<spaceMap>spaces/18_cliff/mmap.dds</spaceMap>
+	</minimapConfig>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<loadingMusic>/music/intro/euro_village</loadingMusic>
+</root>
