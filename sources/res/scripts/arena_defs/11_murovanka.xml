@@ -14,9 +14,7 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<minimapConfig>
-		<spaceMap>spaces/11_murovanka/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/11_murovanka/mmap.dds</defaultMinimap>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>

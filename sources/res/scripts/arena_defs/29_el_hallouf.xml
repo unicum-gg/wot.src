@@ -14,16 +14,15 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<minimapConfig>
-		<spaceMap>spaces/29_el_hallouf/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/29_el_hallouf/mmap.dds</defaultMinimap>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
-	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<loadingMusic>/music/intro/desert</loadingMusic>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<useAdvancedPhysics>True</useAdvancedPhysics>
 </root>

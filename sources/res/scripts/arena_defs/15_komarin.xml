@@ -14,9 +14,7 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<minimapConfig>
-		<spaceMap>spaces/15_komarin/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/15_komarin/mmap.dds</defaultMinimap>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>

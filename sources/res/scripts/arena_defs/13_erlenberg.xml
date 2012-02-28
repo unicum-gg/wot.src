@@ -14,9 +14,7 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<minimapConfig>
-		<spaceMap>spaces/13_erlenberg/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/13_erlenberg/mmap.dds</defaultMinimap>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<umbraEnabled>1</umbraEnabled>

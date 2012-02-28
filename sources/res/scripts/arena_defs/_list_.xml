@@ -53,8 +53,44 @@
 		<name>28_desert</name>
 	</map>
 	<map>
+		<id>14</id>
+		<name>35_steppes</name>
+	</map>
+	<map>
+		<id>15</id>
+		<name>37_caucasus</name>
+	</map>
+	<map>
+		<id>16</id>
+		<name>33_fjord</name>
+	</map>
+	<map>
+		<id>17</id>
+		<name>34_redshire</name>
+	</map>
+	<map>
+		<id>18</id>
+		<name>36_fishing_bay</name>
+	</map>
+	<map>
+		<id>19</id>
+		<name>38_mannerheim_line</name>
+	</map>
+	<map>
 		<id>20</id>
 		<name>08_ruinberg</name>
+	</map>
+	<map>
+		<id>21</id>
+		<name>14_siegfried_line</name>
+	</map>
+	<map>
+		<id>22</id>
+		<name>22_slough</name>
+	</map>
+	<map>
+		<id>23</id>
+		<name>23_westfeld</name>
 	</map>
 	<map>
 		<id>24</id>

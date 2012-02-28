@@ -14,9 +14,7 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<minimapConfig>
-		<spaceMap>spaces/10_hills/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/10_hills/mmap.dds</defaultMinimap>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
@@ -26,4 +24,5 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<useAdvancedPhysics>True</useAdvancedPhysics>
 </root>

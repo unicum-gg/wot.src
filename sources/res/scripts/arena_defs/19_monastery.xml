@@ -14,9 +14,7 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<minimapConfig>
-		<spaceMap>spaces/19_monastery/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/19_monastery/mmap.dds</defaultMinimap>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
@@ -25,4 +23,5 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<useAdvancedPhysics>True</useAdvancedPhysics>
 </root>

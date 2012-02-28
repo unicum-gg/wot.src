@@ -14,9 +14,7 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<minimapConfig>
-		<spaceMap>spaces/08_ruinberg/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/08_ruinberg/mmap.dds</defaultMinimap>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<defaultGroundEffect>None</defaultGroundEffect>

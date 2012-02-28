@@ -14,9 +14,7 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<minimapConfig>
-		<spaceMap>spaces/06_ensk/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/06_ensk/mmap.dds</defaultMinimap>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>

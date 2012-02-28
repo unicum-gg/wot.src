@@ -14,9 +14,7 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<minimapConfig>
-		<spaceMap>spaces/01_karelia/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/01_karelia/mmap.dds</defaultMinimap>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/rus_village</loadingMusic>
 	<umbraEnabled>1</umbraEnabled>
@@ -26,4 +24,5 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<useAdvancedPhysics>True</useAdvancedPhysics>
 </root>

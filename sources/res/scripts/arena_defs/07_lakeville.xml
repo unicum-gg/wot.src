@@ -14,9 +14,7 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<minimapConfig>
-		<spaceMap>spaces/07_lakeville/mmap.dds</spaceMap>
-	</minimapConfig>
+	<defaultMinimap>spaces/07_lakeville/mmap.dds</defaultMinimap>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
