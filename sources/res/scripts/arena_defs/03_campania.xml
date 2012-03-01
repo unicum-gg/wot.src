@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:03_campania/name</name>
+	<description>#arenas:03_campania/description</description>
+	<geometry>spaces/03_campania</geometry>
+	<boundingBox>
+		<bottomLeft>
+			-300.0 -300.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			300.0 300.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<roundLength>900</roundLength>
+	<defaultMinimap>spaces/03_campania/mmap.dds</defaultMinimap>
+	<maxPlayersInTeam>15</maxPlayersInTeam>
+	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+</root>

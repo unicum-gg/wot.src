@@ -19,5 +19,4 @@
 	<batchingEnabled>0</batchingEnabled>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
-	<useAdvancedPhysics>True</useAdvancedPhysics>
 </root>

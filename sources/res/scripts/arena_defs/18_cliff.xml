@@ -18,5 +18,4 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
-	<useAdvancedPhysics>True</useAdvancedPhysics>
 </root>

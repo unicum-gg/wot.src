@@ -45,10 +45,13 @@ msgid "02_malinovka_4CT_mode/name"
 msgstr "Malinovka 4 Bases"
 
 msgid "03_campania/description"
-msgstr "?empty?"
+msgstr ""
+"Hills on the periphery of the map are covered with numerous houses and "
+"winding streets advantageous for suprise attacks. An open area between the "
+"bases is favorable for daring strikes."
 
 msgid "03_campania/name"
-msgstr "Campania"
+msgstr "Province"
 
 msgid "04_himmelsdorf/description"
 msgstr ""
@@ -120,12 +123,6 @@ msgstr ""
 msgid "11_murovanka/name"
 msgstr "Murovanka"
 
-msgid "12_scorched_earth/description"
-msgstr "?empty?"
-
-msgid "12_scorched_earth/name"
-msgstr "Scorched Earth"
-
 msgid "13_erlenberg/description"
 msgstr ""
 "Divided by a river, this map offers three main avenues of attack. A bridge "
@@ -136,12 +133,6 @@ msgstr ""
 
 msgid "13_erlenberg/name"
 msgstr "Erlenberg"
-
-msgid "13_erlenberg_winter/description"
-msgstr "?empty?"
-
-msgid "13_erlenberg_winter/name"
-msgstr "Happy New Year Erlenberg!"
 
 msgid "14_siegfried_line/description"
 msgstr ""
@@ -163,10 +154,14 @@ msgid "15_komarin/name"
 msgstr "Komarin"
 
 msgid "17_munchen/description"
-msgstr "?empty?"
+msgstr ""
+"Эта городская карта значительно отличается своими пейзажами от основного "
+"большинства. Заводские кварталы, разрушенные дома, товарные составы придают "
+"этой карте особый урбанистический стиль. А насыпь с железной дорогой делящей"
+" карту на пополам, позволит сконцентрировать силы для контрудара."
 
 msgid "17_munchen/name"
-msgstr "Munich"
+msgstr "Widepark"
 
 msgid "18_cliff/description"
 msgstr ""
@@ -208,24 +203,6 @@ msgstr ""
 msgid "23_westfeld/name"
 msgstr "Westfield"
 
-msgid "24_canyon/description"
-msgstr "?empty?"
-
-msgid "24_canyon/name"
-msgstr "zFrozen Canyon"
-
-msgid "26_river_valley/description"
-msgstr "?empty?"
-
-msgid "26_river_valley/name"
-msgstr "zFrozen River Vale"
-
-msgid "27_ardennes/description"
-msgstr "?empty?"
-
-msgid "27_ardennes/name"
-msgstr "Ardennes"
-
 msgid "28_desert/description"
 msgstr ""
 "This map looks open, but appearances can be deceiving! The village houses "
@@ -244,12 +221,6 @@ msgstr ""
 
 msgid "29_el_hallouf/name"
 msgstr "El Halluf"
-
-msgid "30_africa_airfield/description"
-msgstr "?empty?"
-
-msgid "30_africa_airfield/name"
-msgstr "zFrozen Airfield"
 
 msgid "31_airfield/description"
 msgstr ""
@@ -319,22 +290,28 @@ msgid "38_mannerheim_line/name"
 msgstr "Arctic Region"
 
 msgid "39_crimea/description"
-msgstr "?empty?"
+msgstr ""
+"On this rugged-terrain map, make use of various battlefield tactics: flank "
+"or ambush the enemy, or attack straight ahead. Also use numerous hollows "
+"between the rocks for a busting attack with concentrated forces."
 
 msgid "39_crimea/name"
-msgstr "Foros"
+msgstr "South Coast"
 
-msgid "40_boundless/description"
+msgid "41_north_america/description"
+msgstr ""
+"Tactics on this map may include deep flanking manoeuvres along the bottom of"
+" the canyon to the enemy base or a quick attack across the plateau. On the "
+"plateau, feel free to use various warfare styles."
+
+msgid "41_north_america/name"
+msgstr "Canyon"
+
+msgid "42_north_america/description"
 msgstr "?empty?"
 
-msgid "40_boundless/name"
-msgstr "Land of Mayhem"
-
-msgid "42_midtown/description"
-msgstr "?empty?"
-
-msgid "42_midtown/name"
-msgstr "Midtown"
+msgid "42_north_america/name"
+msgstr "Port"
 
 msgid "43_north_america/description"
 msgstr "?empty?"
@@ -343,7 +320,10 @@ msgid "43_north_america/name"
 msgstr "North West"
 
 msgid "44_north_america/description"
-msgstr "?empty?"
+msgstr ""
+"In the centre of the map there is a large bog lake. A railway bridge and a "
+"fording side on the one flank allow to defend the area using scarce forces, "
+"and to concentrate main forces on the other flank."
 
 msgid "44_north_america/name"
 msgstr "Live Oaks"
@@ -352,28 +332,93 @@ msgid "45_north_america/description"
 msgstr "City Shuffle"
 
 msgid "45_north_america/name"
-msgstr "Kansas"
+msgstr "Highway"
+
+msgid "46_north_america/description"
+msgstr "Gran Camino"
+
+msgid "46_north_america/name"
+msgstr "Gran Camino"
+
+msgid "47_canada_b/description"
+msgstr "Grimtown"
+
+msgid "47_canada_b/name"
+msgstr "Grimtown"
+
+msgid "49_africa/description"
+msgstr "Kilimanjaro"
+
+msgid "49_africa/name"
+msgstr "Savanna"
+
+msgid "52_australia/description"
+msgstr "?empty?"
+
+msgid "52_australia/name"
+msgstr "Stone Forest"
 
 msgid "53_japan/description"
-msgstr "Japan"
+msgstr "?empty?"
+
+msgid "53_japan/name"
+msgstr "Hanami"
+
+msgid "55_south_america/description"
+msgstr "?empty?"
+
+msgid "55_south_america/name"
+msgstr "Abandoned Harbor"
+
+msgid "59_asia_great_wall/description"
+msgstr "?empty?"
+
+msgid "59_asia_great_wall/name"
+msgstr "Empire Border"
+
+msgid "60_asia_miao/description"
+msgstr "?empty?"
+
+msgid "60_asia_miao/name"
+msgstr "Old Town"
 
 msgid "type/assault/description1"
-msgstr "Capture the enemy base or destroy all enemy vehicles."
+msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
 
 msgid "type/assault/description2"
-msgstr "Defend the base or destroy all enemy vehicles."
+msgstr "Mission: keep the friendly base secure or destroy all enemy vehicles."
 
 msgid "type/assault/name"
 msgstr "Attack"
 
 msgid "type/ctf/description"
-msgstr "Capture the enemy base or destroy all enemy vehicles."
+msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
 
 msgid "type/ctf/name"
 msgstr "Standard Battle"
 
+msgid "type/ctf2/description"
+msgstr ""
+"Mission: capture at least one enemy base or destroy all enemy vehicles."
+
+msgid "type/ctf2/name"
+msgstr "Capture"
+
 msgid "type/domination/description"
-msgstr "Capture the base or destroy all enemy vehicles."
+msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
 
 msgid "type/domination/name"
 msgstr "Encounter Battle"
+
+msgid "type/escort/description1"
+msgstr ""
+"Mission: capture the enemy base or destroy all enemy vehicles. At least one "
+"of the first three ally vehicles in the list must survive."
+
+msgid "type/escort/description2"
+msgstr ""
+"Mission: keep the friendly base secure or destroy the first three enemy "
+"vehicles in the list."
+
+msgid "type/escort/name"
+msgstr "Escort"

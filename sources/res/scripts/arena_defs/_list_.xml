@@ -96,4 +96,12 @@
 		<id>24</id>
 		<name>29_el_hallouf</name>
 	</map>
+	<map>
+		<id>27</id>
+		<name>03_campania</name>
+	</map>
+	<map>
+		<id>31</id>
+		<name>44_north_america</name>
+	</map>
 </root>
