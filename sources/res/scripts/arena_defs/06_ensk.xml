@@ -19,4 +19,33 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>20.299999 249.699997</position1>
+				</team1>
+				<team2>
+					<position1>19.099998 -248.700012</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+		<domination>
+			<controlPoint>-82.768829 2.876255</controlPoint>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						210.894 253.723
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						203.359 -248.108
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</domination>
+	</gameplayTypes>
 </root>

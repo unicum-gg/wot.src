@@ -19,4 +19,37 @@
 	<batchingEnabled>0</batchingEnabled>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>-300.100006 -339.600006</position1>
+				</team1>
+				<team2>
+					<position1>339.399994 299.799988</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+		<assault>
+			<winnerIfTimeout>1</winnerIfTimeout>
+			<teamBasePositions>
+				<team1>
+					<position1>
+						363.593 -369.887
+						<!--BW_String-->
+					</position1>
+				</team1>
+				<team2/>
+			</teamBasePositions>
+			<teamSpawnPoints>
+				<team1/>
+				<team2>
+					<position>
+						-286.200 278.800
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</assault>
+	</gameplayTypes>
 </root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:17_munchen/name</name>
+	<description>#arenas:17_munchen/description</description>
+	<geometry>spaces/17_munchen</geometry>
+	<boundingBox>
+		<bottomLeft>
+			-300.0 -300.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			300.0 300.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<roundLength>900</roundLength>
+	<defaultMinimap>spaces/17_munchen/mmap.dds</defaultMinimap>
+	<maxPlayersInTeam>15</maxPlayersInTeam>
+	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>-83.649483 -201.658936</position1>
+				</team1>
+				<team2>
+					<position1>65.279709 220.479279</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+	</gameplayTypes>
+</root>

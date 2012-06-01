@@ -25,4 +25,46 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>-146.199997 -0.100014</position1>
+				</team1>
+				<team2>
+					<position1>146.399994 0.100000</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+		<assault>
+			<winnerIfTimeout>1</winnerIfTimeout>
+			<teamBasePositions>
+				<team1>
+					<position1>
+						81.030 432.753
+						<!--BW_String-->
+					</position1>
+				</team1>
+				<team2/>
+			</teamBasePositions>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						-87.503 404.509
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						76.002 -373.689
+						<!--BW_String-->
+					</position>
+					<position>
+						-105.753 -373.689
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</assault>
+	</gameplayTypes>
 </root>

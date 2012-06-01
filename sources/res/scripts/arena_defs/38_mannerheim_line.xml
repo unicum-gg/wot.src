@@ -22,4 +22,16 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>398.135315 293.874969</position1>
+				</team1>
+				<team2>
+					<position1>-338.180603 -306.263550</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+	</gameplayTypes>
 </root>

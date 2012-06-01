@@ -19,4 +19,36 @@
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>17.099991 300.000000</position1>
+				</team1>
+				<team2>
+					<position1>-47.500000 -302.600037</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+		<domination>
+			<controlPoint>
+				-273.100021 15.000008
+				<!--BW_String-->
+			</controlPoint>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						300.700 300.900
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						305.200 -306.4
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</domination>
+	</gameplayTypes>
 </root>

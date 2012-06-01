@@ -24,4 +24,33 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>202.800003 296.099976</position1>
+				</team1>
+				<team2>
+					<position1>-205.000015 -292.799988</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+		<domination>
+			<controlPoint>-336.017883 58.398434</controlPoint>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						169.306 314.553
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						144.26 -259.666
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</domination>
+	</gameplayTypes>
 </root>

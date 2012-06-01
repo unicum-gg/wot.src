@@ -18,4 +18,16 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>-287.433441 -436.544952</position1>
+				</team1>
+				<team2>
+					<position1>-251.606018 434.644470</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+	</gameplayTypes>
 </root>

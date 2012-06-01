@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-	<minPlayersInTeam>1</minPlayersInTeam>
+	<minPlayersInTeam>0</minPlayersInTeam>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<roundLength>3600</roundLength>
-	<arenaStartDelay>
-		30.0
-		<!--BW_String-->
-	</arenaStartDelay>
-	<kickAfterFinishWaitTime>
-		60.0
-		<!--BW_String-->
-	</kickAfterFinishWaitTime>
 	<music>/music/combat/combat</music>
 	<loadingMusic>/music/main_menu/main_menu</loadingMusic>
 	<ambientSound>/ambient/wind/wind</ambientSound>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
+	<defaultReverbPreset/>
 </root>

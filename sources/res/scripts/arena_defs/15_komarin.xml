@@ -17,6 +17,29 @@
 	<defaultMinimap>spaces/15_komarin/mmap.dds</defaultMinimap>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>-342 -150</position1>
+				</team1>
+				<team2>
+					<position1>341 154</position1>
+				</team2>
+			</teamBasePositions>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						60 -340.00
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>-107 342</position>
+				</team2>
+			</teamSpawnPoints>
+		</ctf>
+	</gameplayTypes>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>
 	<water>
 		<texScale>0</texScale>

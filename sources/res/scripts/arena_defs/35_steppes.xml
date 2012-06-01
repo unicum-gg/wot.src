@@ -17,4 +17,33 @@
 	<defaultMinimap>spaces/35_steppes/mmap.dds</defaultMinimap>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>228.220047 -341.927917</position1>
+				</team1>
+				<team2>
+					<position1>-88.818558 361.861725</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+		<domination>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						-146.583 -367.165
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						-436.242 187.123
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+			<controlPoint>376.100006 253.000000</controlPoint>
+		</domination>
+	</gameplayTypes>
 </root>

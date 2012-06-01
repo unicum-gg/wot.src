@@ -38,12 +38,6 @@ msgstr ""
 msgid "02_malinovka/name"
 msgstr "Malinovka"
 
-msgid "02_malinovka_4CT_mode/description"
-msgstr "?empty?"
-
-msgid "02_malinovka_4CT_mode/name"
-msgstr "Malinovka 4 Bases"
-
 msgid "03_campania/description"
 msgstr ""
 "Hills on the periphery of the map are covered with numerous houses and "
@@ -155,10 +149,9 @@ msgstr "Komarin"
 
 msgid "17_munchen/description"
 msgstr ""
-"Эта городская карта значительно отличается своими пейзажами от основного "
-"большинства. Заводские кварталы, разрушенные дома, товарные составы придают "
-"этой карте особый урбанистический стиль. А насыпь с железной дорогой делящей"
-" карту на пополам, позволит сконцентрировать силы для контрудара."
+"This map depicts an industrial city devastated by war. A railway embankment "
+"divides the map in two, making it possible to concentrate forces for an "
+"attack or counterattack."
 
 msgid "17_munchen/name"
 msgstr "Widepark"
@@ -315,7 +308,10 @@ msgid "42_north_america/name"
 msgstr "Port"
 
 msgid "43_north_america/description"
-msgstr "?empty?"
+msgstr ""
+"The map features rocky and wooded terrain. Tanks can hide behind boulders, "
+"rock outcrops, or buildings. Numerous locations on the map can be turned "
+"into defensive strongpoints."
 
 msgid "43_north_america/name"
 msgstr "North West"
@@ -330,16 +326,29 @@ msgid "44_north_america/name"
 msgstr "Live Oaks"
 
 msgid "45_north_america/description"
-msgstr "City Shuffle"
+msgstr ""
+"Разнообразный ландшафт этой  карты придаёт ей своеобразное очарование и даёт"
+" на выбор большое разнообразие применения различных тактик. Многочисленные "
+"укрытия, кусты, позволяют выбирать время и место удара, а городские кварталы"
+" дают возможность ведения боя на ультракоротких дистанциях."
 
 msgid "45_north_america/name"
 msgstr "Highway"
 
 msgid "46_north_america/description"
-msgstr "Gran Camino"
+msgstr ""
+"Особенностью данной карты является изрезанный ландшафт. Холмы и овраги, "
+"пересекающие местность, удобны для манёвренного боя. Часто встречающиеся "
+"скальные массивы позволяют выбирать места для обороны и засады."
 
 msgid "46_north_america/name"
 msgstr "Gran Camino"
+
+msgid "47_canada_a/description"
+msgstr "Silent shore"
+
+msgid "47_canada_a/name"
+msgstr "Serene Coast"
 
 msgid "47_canada_b/description"
 msgstr "Grimtown"
@@ -347,8 +356,18 @@ msgstr "Grimtown"
 msgid "47_canada_b/name"
 msgstr "Grimtown"
 
+msgid "48_south_america/description"
+msgstr ""
+"Река с высокими берегами делит данную местность на несколько частей. Высокие"
+" холмы, деревья и болотистые броды позволяют построить оборону или "
+"сосредоточить силы для атаки."
+
 msgid "49_africa/description"
-msgstr "Kilimanjaro"
+msgstr ""
+"Эта карта характерна открытыми пространствами и плавными переходами "
+"ландшафта. Русло реки и невысокие холмы позволят выбрать удобное место для "
+"наступления. В качестве укрытия или места для засады, можно использовать "
+"немногочисленные хижины и выходы скальных массивов на поверхность."
 
 msgid "49_africa/name"
 msgstr "Savanna"
@@ -380,6 +399,12 @@ msgstr "?empty?"
 msgid "55_south_america/name"
 msgstr "Abandoned Harbor"
 
+msgid "58_asia_xinjiang/description"
+msgstr "Mekyar"
+
+msgid "58_asia_xinjiang/name"
+msgstr "Мекъяр"
+
 msgid "59_asia_great_wall/description"
 msgstr "?empty?"
 
@@ -392,14 +417,107 @@ msgstr "?empty?"
 msgid "60_asia_miao/name"
 msgstr "Old Town"
 
-msgid "type/assault/description1"
-msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
+msgid "62_asia_huangshan/description"
+msgstr "empty"
 
-msgid "type/assault/description2"
+msgid "62_asia_huangshan/name"
+msgstr "Парящие скалы"
+
+msgid "63_tundra/name"
+msgstr "Мертвая дорога"
+
+msgid "64_antarctica_shore/description"
+msgstr "Cape Helbert"
+
+msgid "64_antarctica_shore/name"
+msgstr "Мыс Гельберта"
+
+msgid "65_asia_vietnam/description"
+msgstr "White cliffs"
+
+msgid "65_asia_vietnam/name"
+msgstr "Белые скалы"
+
+msgid "66_asia_vietnam/description"
+msgstr "Nong Ten"
+
+msgid "66_asia_vietnam/name"
+msgstr "Нонг Тэн"
+
+msgid "68_asia_iraq/description"
+msgstr "Kasbah"
+
+msgid "68_asia_iraq/name"
+msgstr "Цитадель"
+
+msgid "69_rocky_island/description"
+msgstr "Rocky Island"
+
+msgid "69_rocky_island/name"
+msgstr "Роки Айленд"
+
+msgid "70_pearl_harbor/description"
+msgstr "Nanaluu dock"
+
+msgid "70_pearl_harbor/name"
+msgstr "Док Наналуу"
+
+msgid "71_asia_bali/description"
+msgstr "Kechari"
+
+msgid "71_asia_bali/name"
+msgstr "Кечари"
+
+msgid "72_quarry_a/description"
+msgstr "Quarry"
+
+msgid "72_quarry_a/name"
+msgstr "Карьер"
+
+msgid "73_asia_korea/description"
+msgstr "Jochisan lowland"
+
+msgid "73_asia_korea/name"
+msgstr "Низина Йочисан"
+
+msgid "75_dam/description"
+msgstr "Дамба"
+
+msgid "75_dam/name"
+msgstr "Дамба"
+
+msgid "76_asia_armenia/description"
+msgstr "Армения, Гарни"
+
+msgid "76_asia_armenia/name"
+msgstr "Пик Гарна"
+
+msgid "77_pacific_island/description"
+msgstr "Pacific island"
+
+msgid "77_pacific_island/name"
+msgstr "Атолл Луару"
+
+msgid "78_asia_valley/description"
+msgstr "Израиль, Цфат"
+
+msgid "78_asia_valley/name"
+msgstr "Батгиль"
+
+msgid "79_asia/description"
+msgstr "Caldera"
+
+msgid "79_asia/name"
+msgstr "Кальдера"
+
+msgid "type/assault/description1"
 msgstr "Mission: keep the friendly base secure or destroy all enemy vehicles."
 
+msgid "type/assault/description2"
+msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
+
 msgid "type/assault/name"
-msgstr "Attack"
+msgstr "Assault"
 
 msgid "type/ctf/description"
 msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
@@ -415,20 +533,26 @@ msgid "type/ctf2/name"
 msgstr "Capture"
 
 msgid "type/domination/description"
-msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
+msgstr "Mission: capture the base or destroy all enemy vehicles."
 
 msgid "type/domination/name"
 msgstr "Encounter Battle"
 
 msgid "type/escort/description1"
 msgstr ""
-"Mission: capture the enemy base or destroy all enemy vehicles. At least one "
-"of the first three ally vehicles in the list must survive."
+"Mission: keep the friendly base secure or destroy the top three enemy "
+"vehicles on the list."
 
 msgid "type/escort/description2"
 msgstr ""
-"Mission: keep the friendly base secure or destroy the first three enemy "
-"vehicles in the list."
+"Mission: capture the enemy base or destroy all enemy vehicles; however, at "
+"least one of the top three friendly vehicles on the list must survive."
 
 msgid "type/escort/name"
 msgstr "Escort"
+
+msgid "valley_66_asia_vietnam/description"
+msgstr "valley_66_asia_vietnam"
+
+msgid "valley_66_asia_vietnam/name"
+msgstr "Тхун Лунг"

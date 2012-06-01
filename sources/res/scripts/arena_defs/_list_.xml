@@ -97,8 +97,16 @@
 		<name>29_el_hallouf</name>
 	</map>
 	<map>
+		<id>26</id>
+		<name>31_airfield</name>
+	</map>
+	<map>
 		<id>27</id>
 		<name>03_campania</name>
+	</map>
+	<map>
+		<id>28</id>
+		<name>17_munchen</name>
 	</map>
 	<map>
 		<id>31</id>
