@@ -27,12 +27,12 @@
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>
-				<team1>
-					<position1>-401.338928 -399.910980</position1>
-				</team1>
 				<team2>
-					<position1>397.627686 402.604431</position1>
+					<position1>-401.338928 -399.910980</position1>
 				</team2>
+				<team1>
+					<position1>397.627686 402.604431</position1>
+				</team1>
 			</teamBasePositions>
 		</ctf>
 		<assault>

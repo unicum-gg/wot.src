@@ -113,11 +113,23 @@
 		<name>44_north_america</name>
 	</map>
 	<map>
+		<id>34</id>
+		<name>45_north_america</name>
+	</map>
+	<map>
 		<id>32</id>
 		<name>39_crimea</name>
 	</map>
 	<map>
+		<id>36</id>
+		<name>42_north_america</name>
+	</map>
+	<map>
 		<id>44</id>
 		<name>51_asia</name>
+	</map>
+	<map>
+		<id>49</id>
+		<name>47_canada_a</name>
 	</map>
 </root>

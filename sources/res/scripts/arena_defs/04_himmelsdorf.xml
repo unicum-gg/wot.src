@@ -22,12 +22,12 @@
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>
-				<team1>
-					<position1>17.099991 300.000000</position1>
-				</team1>
 				<team2>
-					<position1>-47.500000 -302.600037</position1>
+					<position1>17.099991 300.000000</position1>
 				</team2>
+				<team1>
+					<position1>-47.500000 -302.600037</position1>
+				</team1>
 			</teamBasePositions>
 		</ctf>
 		<domination>

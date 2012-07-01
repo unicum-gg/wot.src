@@ -27,12 +27,12 @@
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>
-				<team1>
-					<position1>-338.583160 -319.307434</position1>
-				</team1>
 				<team2>
-					<position1>299.255981 319.405975</position1>
+					<position1>-338.583160 -319.307434</position1>
 				</team2>
+				<team1>
+					<position1>299.255981 319.405975</position1>
+				</team1>
 			</teamBasePositions>
 		</ctf>
 		<domination>

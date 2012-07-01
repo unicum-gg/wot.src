@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:45_north_america/name</name>
+	<description>#arenas:45_north_america/description</description>
+	<geometry>spaces/45_north_america</geometry>
+	<boundingBox>
+		<bottomLeft>
+			-500.0 -500.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			500.0 500.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<roundLength>900</roundLength>
+	<defaultMinimap>spaces/45_north_america/mmap.dds</defaultMinimap>
+	<maxPlayersInTeam>15</maxPlayersInTeam>
+	<loadingMusic>/music/intro/euro_city</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+	<gameplayTypes>
+		<ctf>
+			<teamBasePositions>
+				<team1>
+					<position1>197.412552 356.577179</position1>
+				</team1>
+				<team2>
+					<position1>-343.146606 -327.370056</position1>
+				</team2>
+			</teamBasePositions>
+		</ctf>
+	</gameplayTypes>
+</root>
