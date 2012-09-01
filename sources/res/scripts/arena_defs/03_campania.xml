@@ -14,7 +14,8 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/03_campania/mmap.dds</defaultMinimap>
+	<minimap>spaces/03_campania/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/rus_village</loadingMusic>
 	<water>
@@ -34,4 +35,5 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

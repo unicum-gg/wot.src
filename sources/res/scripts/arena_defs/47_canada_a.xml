@@ -14,7 +14,8 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/47_canada_a/mmap.dds</defaultMinimap>
+	<minimap>spaces/47_canada_a/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
@@ -29,18 +30,13 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>
-						-126.887 -305.909
-						<!--BW_String-->
-					</position1>
+					<position1>-126.886963 -305.908661</position1>
 				</team1>
 				<team2>
-					<position1>
-						213.120 328.109
-						<!--BW_String-->
-					</position1>
+					<position1>213.120361 328.109039</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

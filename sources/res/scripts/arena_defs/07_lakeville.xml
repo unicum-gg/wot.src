@@ -14,7 +14,8 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/07_lakeville/mmap.dds</defaultMinimap>
+	<minimap>spaces/07_lakeville/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
@@ -29,12 +30,13 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-169.500000 319.299988</position1>
+					<position1>-169.513458 319.351288</position1>
 				</team1>
 				<team2>
-					<position1>-169.500000 -319.100006</position1>
+					<position1>-169.513458 -319.048645</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

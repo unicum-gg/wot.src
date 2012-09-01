@@ -14,7 +14,8 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<defaultMinimap>spaces/19_monastery/mmap.dds</defaultMinimap>
+	<minimap>spaces/19_monastery/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
@@ -23,6 +24,7 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>

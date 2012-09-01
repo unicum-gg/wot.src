@@ -14,7 +14,8 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<defaultMinimap>spaces/33_fjord/mmap.dds</defaultMinimap>
+	<minimap>spaces/33_fjord/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
 	<water>
@@ -34,4 +35,5 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

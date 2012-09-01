@@ -14,7 +14,8 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<defaultMinimap>spaces/18_cliff/mmap.dds</defaultMinimap>
+	<minimap>spaces/18_cliff/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
@@ -22,12 +23,13 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-287.433441 -436.544952</position1>
+					<position1>-287.433411 -436.600830</position1>
 				</team1>
 				<team2>
-					<position1>-251.606018 434.644470</position1>
+					<position1>-251.606094 434.591248</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

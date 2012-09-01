@@ -14,7 +14,8 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/13_erlenberg/mmap.dds</defaultMinimap>
+	<minimap>spaces/13_erlenberg/mmap.dds</minimap>
+	<vehicleCamouflageKind>winter</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<umbraEnabled>1</umbraEnabled>
@@ -67,4 +68,5 @@
 			</teamSpawnPoints>
 		</assault>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

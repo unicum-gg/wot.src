@@ -14,7 +14,8 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<defaultMinimap>spaces/02_malinovka/mmap.dds</defaultMinimap>
+	<minimap>spaces/02_malinovka/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/Intro_Malinovka</loadingMusic>
@@ -27,7 +28,7 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>75.599960 -391.920929</position1>
+					<position1>75.599945 -391.920929</position1>
 				</team1>
 				<team2>
 					<position4>-372.700012 108.119667</position4>
@@ -36,15 +37,6 @@
 		</ctf>
 		<assault>
 			<winnerIfTimeout>1</winnerIfTimeout>
-			<teamBasePositions>
-				<team1>
-					<position1>
-						254.400 310
-						<!--BW_String-->
-					</position1>
-				</team1>
-				<team2/>
-			</teamBasePositions>
 			<teamSpawnPoints>
 				<team1>
 					<position>
@@ -74,5 +66,26 @@
 				<team2/>
 			</teamBasePositions>
 		</assault>
+		<domination>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						430.100 1.500
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						46.100 449.000
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+			<controlPoint>
+				-43.885 -85.559
+				<!--BW_String-->
+			</controlPoint>
+		</domination>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

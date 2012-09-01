@@ -14,7 +14,8 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/45_north_america/mmap.dds</defaultMinimap>
+	<minimap>spaces/45_north_america/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
 	<water>
@@ -34,4 +35,5 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

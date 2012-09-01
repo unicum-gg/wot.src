@@ -14,7 +14,8 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<defaultMinimap>spaces/31_airfield/mmap.dds</defaultMinimap>
+	<minimap>spaces/31_airfield/mmap.dds</minimap>
+	<vehicleCamouflageKind>desert</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
 	<water>
@@ -32,64 +33,9 @@
 					<position1>-324.047974 -176.182037</position1>
 				</team2>
 			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
-			<teamBasePositions>
-				<team1>
-					<position1>360.648438 -154.437271</position1>
-				</team1>
-				<team2>
-					<position1>-324.047974 -176.182037</position1>
-				</team2>
-			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<mapActivities>
 		<warplane>
 			<preset>airfield_curve</preset>

@@ -98,6 +98,12 @@ msgstr ""
 msgid "08_ruinberg/name"
 msgstr "Ruinberg"
 
+msgid "09_stalingrad_k/description"
+msgstr "?empty?"
+
+msgid "09_stalingrad_k/name"
+msgstr "Сталинград"
+
 msgid "10_hills/description"
 msgstr ""
 "A high hill in the center of the map provides a perfect outpost for your "
@@ -374,6 +380,9 @@ msgstr ""
 " холмы, деревья и болотистые броды позволяют построить оборону или "
 "сосредоточить силы для атаки."
 
+msgid "48_south_america/name"
+msgstr "Чёрная река"
+
 msgid "49_africa/description"
 msgstr ""
 "Эта карта характерна открытыми пространствами и плавными переходами "
@@ -405,8 +414,20 @@ msgstr "?empty?"
 msgid "53_japan/name"
 msgstr "Hanami"
 
+msgid "54_south_america/description"
+msgstr "Rio Marcella possible: Rio Marcus, Rio Puebla, San romero"
+
+msgid "54_south_america/name"
+msgstr "Рио Марсель"
+
 msgid "55_south_america/description"
-msgstr "?empty?"
+msgstr ""
+"Прибрежная холмистая местность с густой тропической растительностью граничит"
+" с водным пространством. Данный рельеф удобен для засад и внезапных атак. "
+"Базы противников расположены на полуострове в непосредственной близости друг"
+" от друга. Заняв невысокий холм между ними, команда получит отличное место "
+"для ведения огня по обеим базам. Противники начинают бой вдалеке от своих "
+"баз, что стимулирует их к активному старту."
 
 msgid "55_south_america/name"
 msgstr "Abandoned Harbor"
@@ -429,6 +450,12 @@ msgstr "?empty?"
 msgid "60_asia_miao/name"
 msgstr "Old Town"
 
+msgid "61_asia/description"
+msgstr "?empty?"
+
+msgid "61_asia/name"
+msgstr "Хампи"
+
 msgid "62_asia_huangshan/description"
 msgstr "empty"
 
@@ -437,6 +464,12 @@ msgstr "Парящие скалы"
 
 msgid "63_tundra/name"
 msgstr "Мертвая дорога"
+
+msgid "64_antarctica_inland/description"
+msgstr "?empty?"
+
+msgid "64_antarctica_inland/name"
+msgstr "Антарктида"
 
 msgid "64_antarctica_shore/description"
 msgstr "Cape Helbert"
@@ -455,6 +488,14 @@ msgstr "Nong Ten"
 
 msgid "66_asia_vietnam/name"
 msgstr "Нонг Тэн"
+
+msgid "67_asia_ruins/description"
+msgstr ""
+"Jovian Foothold, Jovian ground, Jovian something, Трибунал юпитера, террасы "
+"юпитера, мегалит юпитера."
+
+msgid "67_asia_ruins/name"
+msgstr "Плацдарм Юпитера"
 
 msgid "68_asia_iraq/description"
 msgstr "Kasbah"
@@ -492,6 +533,12 @@ msgstr "Jochisan lowland"
 msgid "73_asia_korea/name"
 msgstr "Низина Йочисан"
 
+msgid "74_asia_afghanistan/description"
+msgstr "?empty?"
+
+msgid "74_asia_afghanistan/name"
+msgstr "Шелковый путь"
+
 msgid "75_dam/description"
 msgstr "Дамба"
 
@@ -521,6 +568,24 @@ msgstr "Caldera"
 
 msgid "79_asia/name"
 msgstr "Кальдера"
+
+msgid "82_salar/description"
+msgstr "Salar"
+
+msgid "82_salar/name"
+msgstr "Саляр"
+
+msgid "85_winter/description"
+msgstr "Belogorsk-19"
+
+msgid "85_winter/name"
+msgstr "Белогорск-19"
+
+msgid "test_boundless/description"
+msgstr "?empty?"
+
+msgid "test_boundless/name"
+msgstr "Беспределье"
 
 msgid "type/assault/description1"
 msgstr "Mission: keep the friendly base secure or destroy all enemy vehicles."
@@ -567,4 +632,4 @@ msgid "valley_66_asia_vietnam/description"
 msgstr "valley_66_asia_vietnam"
 
 msgid "valley_66_asia_vietnam/name"
-msgstr "Тхун Лунг"
+msgstr "Луанунг"

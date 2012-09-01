@@ -14,7 +14,9 @@
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
-	<defaultMinimap>spaces/28_desert/mmap.dds</defaultMinimap>
+	<minimap>spaces/28_desert/mmap.dds</minimap>
+	<vehicleCamouflageKind>desert</vehicleCamouflageKind>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/desert</loadingMusic>
@@ -55,5 +57,24 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<domination>
+			<controlPoint>-89.697159 -323.610901</controlPoint>
+			<teamSpawnPoints>
+				<team1>
+					<position>408 148</position>
+					<position>
+						461.753 -51.174
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>-150 250</position>
+					<position>
+						-437.991 244.365
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</domination>
 	</gameplayTypes>
 </root>

@@ -5,16 +5,17 @@
 	<geometry>spaces/42_north_america</geometry>
 	<boundingBox>
 		<bottomLeft>
-			-400.0 -400.0
+			-400.0 -430.0
 			<!--BW_String-->
 		</bottomLeft>
 		<upperRight>
-			400.0 400.0
+			430.0 400.0
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/42_north_america/mmap.dds</defaultMinimap>
+	<minimap>spaces/42_north_america/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
 	<water>
@@ -34,4 +35,5 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

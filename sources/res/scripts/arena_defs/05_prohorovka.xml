@@ -14,7 +14,8 @@
 		</upperRight>
 	</boundingBox>
 	<roundLength>900</roundLength>
-	<defaultMinimap>spaces/05_prohorovka/mmap.dds</defaultMinimap>
+	<minimap>spaces/05_prohorovka/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<defaultGroundEffect>ground</defaultGroundEffect>
@@ -37,15 +38,6 @@
 		</ctf>
 		<assault>
 			<winnerIfTimeout>1</winnerIfTimeout>
-			<teamBasePositions>
-				<team1>
-					<position1>
-						123.749 14.112
-						<!--BW_String-->
-					</position1>
-				</team1>
-				<team2/>
-			</teamBasePositions>
 			<teamSpawnPoints>
 				<team1>
 					<position>
@@ -60,6 +52,13 @@
 					</position>
 				</team2>
 			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1>
+					<position1>123.748749 14.111814</position1>
+				</team1>
+				<team2/>
+			</teamBasePositions>
 		</assault>
 	</gameplayTypes>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>
