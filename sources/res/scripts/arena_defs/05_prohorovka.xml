@@ -36,29 +36,6 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<assault>
-			<winnerIfTimeout>1</winnerIfTimeout>
-			<teamSpawnPoints>
-				<team1>
-					<position>
-						438.529 -144.399
-						<!--BW_String-->
-					</position>
-				</team1>
-				<team2>
-					<position>
-						-412.664 0
-						<!--BW_String-->
-					</position>
-				</team2>
-			</teamSpawnPoints>
-			<teamBasePositions>
-				<team1>
-					<position1>123.748749 14.111814</position1>
-				</team1>
-				<team2/>
-			</teamBasePositions>
-		</assault>
 	</gameplayTypes>
 	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>
