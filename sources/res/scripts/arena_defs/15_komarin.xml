@@ -22,10 +22,16 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-342 -150</position1>
+					<position1>
+						-280.772 -192.392
+						<!--BW_String-->
+					</position1>
 				</team1>
 				<team2>
-					<position1>341 154</position1>
+					<position1>
+						282.752 167.894
+						<!--BW_String-->
+					</position1>
 				</team2>
 			</teamBasePositions>
 			<teamSpawnPoints>
