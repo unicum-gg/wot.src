@@ -23,10 +23,16 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-287.433411 -436.600830</position1>
+					<position1>
+						-273.786 -436.601
+						<!--BW_String-->
+					</position1>
 				</team1>
 				<team2>
-					<position1>-251.606094 434.591248</position1>
+					<position1>
+						-251.606 434.591
+						<!--BW_String-->
+					</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>

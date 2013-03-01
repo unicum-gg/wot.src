@@ -132,4 +132,8 @@
 		<id>49</id>
 		<name>47_canada_a</name>
 	</map>
+	<map>
+		<id>2021</id>
+		<name>00_tank_tutorial</name>
+	</map>
 </root>

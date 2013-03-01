@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<name>#arenas:00_tank_tutorial/name</name>
+	<description>#arenas:00_tank_tutorial/description</description>
+	<geometry>spaces/00_tank_tutorial</geometry>
+	<roundLength>1200</roundLength>
+	<boundingBox>
+		<bottomLeft>
+			-200.0 -300.0
+			<!--BW_String-->
+		</bottomLeft>
+		<upperRight>
+			300.0 200.0
+			<!--BW_String-->
+		</upperRight>
+	</boundingBox>
+	<minimap>spaces/00_tank_tutorial/mmap.dds</minimap>
+	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
+	<umbraEnabled>1</umbraEnabled>
+	<batchingEnabled>0</batchingEnabled>
+	<gameplayTypes>
+		<ctf>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						60 -340.00
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>-107 342</position>
+				</team2>
+			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1/>
+				<team2/>
+			</teamBasePositions>
+		</ctf>
+	</gameplayTypes>
+	<music>/music/tutorial/battle_music</music>
+	<loadingMusic>/music/intro/rus_city</loadingMusic>
+	<water>
+		<texScale>0</texScale>
+		<freqX>0</freqX>
+		<freqZ>0</freqZ>
+	</water>
+	<useAdvancedPhysics>true</useAdvancedPhysics>
+	<explicitRequestOnly>true</explicitRequestOnly>
+	<maxPlayersInTeam>1</maxPlayersInTeam>
+</root>

@@ -35,37 +35,6 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<assault>
-			<winnerIfTimeout>1</winnerIfTimeout>
-			<teamSpawnPoints>
-				<team1>
-					<position>
-						379.405 408.632
-						<!--BW_String-->
-					</position>
-				</team1>
-				<team2>
-					<position>
-						-380.700 -184.1
-						<!--BW_String-->
-					</position>
-					<position>
-						-264.949 -312.686
-						<!--BW_String-->
-					</position>
-					<position>
-						-116.972 -430.465
-						<!--BW_String-->
-					</position>
-				</team2>
-			</teamSpawnPoints>
-			<teamBasePositions>
-				<team1>
-					<position3>254.399994 310.500000</position3>
-				</team1>
-				<team2/>
-			</teamBasePositions>
-		</assault>
 		<domination>
 			<teamSpawnPoints>
 				<team1>
