@@ -350,6 +350,16 @@ msgstr ""
 msgid "51_asia/name"
 msgstr "Dragon Ridge"
 
+msgid "60_asia_miao/description"
+msgstr ""
+"Rugged terrain is favorable for various battle tactics—ambushes, unexpected "
+"flanking maneuvers, and close encounters. Moving along the riverbed allows "
+"to swiftly approach the enemy base and get into action. However, do not "
+"leave your rear undefended!"
+
+msgid "60_asia_miao/name"
+msgstr "Pearl River"
+
 msgid "type/assault/description1"
 msgstr "Mission: keep the friendly base secure or destroy all enemy vehicles."
 
