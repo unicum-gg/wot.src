@@ -20,7 +20,6 @@
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>

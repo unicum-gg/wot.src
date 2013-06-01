@@ -30,7 +30,10 @@
 					<position1>-83.649483 -201.658936</position1>
 				</team1>
 				<team2>
-					<position1>65.279709 220.479279</position1>
+					<position1>
+						61.649 242.999
+						<!--BW_String-->
+					</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>

@@ -11,7 +11,6 @@
 	<batchingEnabled>0</batchingEnabled>
 	<defaultReverbPreset/>
 	<explicitRequestOnly>false</explicitRequestOnly>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<gameplayTypes>
 		<ctf/>

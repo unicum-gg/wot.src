@@ -33,10 +33,23 @@
 					<position1>-169.513458 319.351288</position1>
 				</team1>
 				<team2>
-					<position1>-169.513458 -319.048645</position1>
+					<position1>-169.513443 -319.048615</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<domination>
+			<controlPoint>
+				258.9 -4.2
+				<!--BW_String-->
+			</controlPoint>
+			<teamSpawnPoints>
+				<team1>
+					<position>-169.513458 319.351288</position>
+				</team1>
+				<team2>
+					<position>-169.513443 -319.048615</position>
+				</team2>
+			</teamSpawnPoints>
+		</domination>
 	</gameplayTypes>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

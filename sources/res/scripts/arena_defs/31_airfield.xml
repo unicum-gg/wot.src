@@ -35,7 +35,6 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<mapActivities>
 		<warplane>
 			<preset>airfield_curve</preset>

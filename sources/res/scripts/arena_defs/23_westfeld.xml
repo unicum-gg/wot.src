@@ -24,13 +24,35 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-300.100006 -339.600006</position1>
+					<position1>-300.099884 -339.599976</position1>
 				</team1>
 				<team2>
-					<position1>339.399994 299.799988</position1>
+					<position1>339.399902 299.768127</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<assault>
+			<winnerIfTimeout>2</winnerIfTimeout>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						405.589 -392.368
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						-286.200 278.800
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1/>
+				<team2>
+					<position1>12.043289 73.004257</position1>
+				</team2>
+			</teamBasePositions>
+		</assault>
 	</gameplayTypes>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

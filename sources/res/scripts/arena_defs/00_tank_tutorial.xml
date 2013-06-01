@@ -44,7 +44,6 @@
 		<freqX>0</freqX>
 		<freqZ>0</freqZ>
 	</water>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<explicitRequestOnly>true</explicitRequestOnly>
 	<maxPlayersInTeam>1</maxPlayersInTeam>
 </root>

@@ -33,7 +33,7 @@
 					<position1>-146.199997 -0.100014</position1>
 				</team1>
 				<team2>
-					<position1>146.399994 0.100000</position1>
+					<position1>146.399994 0.100015</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
@@ -68,5 +68,4 @@
 			</teamSpawnPoints>
 		</assault>
 	</gameplayTypes>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

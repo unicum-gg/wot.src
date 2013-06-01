@@ -97,5 +97,4 @@
 			</teamSpawnPoints>
 		</assault>
 	</gameplayTypes>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

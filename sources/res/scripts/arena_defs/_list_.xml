@@ -113,12 +113,12 @@
 		<name>44_north_america</name>
 	</map>
 	<map>
-		<id>34</id>
-		<name>45_north_america</name>
-	</map>
-	<map>
 		<id>32</id>
 		<name>39_crimea</name>
+	</map>
+	<map>
+		<id>34</id>
+		<name>45_north_america</name>
 	</map>
 	<map>
 		<id>36</id>
@@ -135,6 +135,10 @@
 	<map>
 		<id>1957</id>
 		<name>60_asia_miao</name>
+	</map>
+	<map>
+		<id>1983</id>
+		<name>73_asia_korea</name>
 	</map>
 	<map>
 		<id>2021</id>

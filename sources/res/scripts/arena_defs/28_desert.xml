@@ -16,7 +16,6 @@
 	</boundingBox>
 	<minimap>spaces/28_desert/mmap.dds</minimap>
 	<vehicleCamouflageKind>desert</vehicleCamouflageKind>
-	<useAdvancedPhysics>true</useAdvancedPhysics>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/desert</loadingMusic>
