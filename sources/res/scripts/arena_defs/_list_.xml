@@ -133,15 +133,19 @@
 		<name>47_canada_a</name>
 	</map>
 	<map>
-		<id>1957</id>
-		<name>60_asia_miao</name>
+		<id>50</id>
+		<name>85_winter</name>
 	</map>
 	<map>
-		<id>1983</id>
+		<id>51</id>
 		<name>73_asia_korea</name>
 	</map>
 	<map>
-		<id>2021</id>
+		<id>52</id>
+		<name>60_asia_miao</name>
+	</map>
+	<map>
+		<id>53</id>
 		<name>00_tank_tutorial</name>
 	</map>
 </root>
