@@ -3,6 +3,7 @@
 	<name>#arenas:00_tank_tutorial/name</name>
 	<description>#arenas:00_tank_tutorial/description</description>
 	<geometry>spaces/00_tank_tutorial</geometry>
+	<runDelay>15</runDelay>
 	<roundLength>1200</roundLength>
 	<boundingBox>
 		<bottomLeft>

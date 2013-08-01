@@ -22,29 +22,12 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>
-						-280.772 -192.392
-						<!--BW_String-->
-					</position1>
+					<position1>160.870193 -303.957031</position1>
 				</team1>
 				<team2>
-					<position1>
-						282.752 167.894
-						<!--BW_String-->
-					</position1>
+					<position1>-175.401016 304.407318</position1>
 				</team2>
 			</teamBasePositions>
-			<teamSpawnPoints>
-				<team1>
-					<position>
-						60 -340.00
-						<!--BW_String-->
-					</position>
-				</team1>
-				<team2>
-					<position>-107 342</position>
-				</team2>
-			</teamSpawnPoints>
 		</ctf>
 	</gameplayTypes>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>

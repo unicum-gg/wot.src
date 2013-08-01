@@ -148,4 +148,8 @@
 		<id>53</id>
 		<name>00_tank_tutorial</name>
 	</map>
+	<map>
+		<id>55</id>
+		<name>63_tundra</name>
+	</map>
 </root>

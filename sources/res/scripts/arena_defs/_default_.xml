@@ -2,6 +2,7 @@
 <root>
 	<minPlayersInTeam>0</minPlayersInTeam>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
+	<runDelay>30</runDelay>
 	<roundLength>900</roundLength>
 	<winnerIfTimeout>0</winnerIfTimeout>
 	<music>/music/combat/combat</music>

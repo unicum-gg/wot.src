@@ -28,12 +28,26 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-403.649689 -424.134583</position1>
+					<position1>-403.600006 -424.100006</position1>
 				</team1>
 				<team2>
-					<position1>383.278870 422.746460</position1>
+					<position1>383.300018 422.700012</position1>
 				</team2>
 			</teamBasePositions>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						-321.400 -84.3
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						341.200 78.700
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
 		</ctf>
 	</gameplayTypes>
 </root>
