@@ -117,6 +117,10 @@
 		<name>39_crimea</name>
 	</map>
 	<map>
+		<id>33</id>
+		<name>43_north_america</name>
+	</map>
+	<map>
 		<id>34</id>
 		<name>45_north_america</name>
 	</map>

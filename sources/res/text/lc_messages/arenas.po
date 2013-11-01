@@ -271,8 +271,9 @@ msgstr "Fisherman's Bay"
 
 msgid "37_caucasus/description"
 msgstr ""
-"Use the steep terrain of the map to hide from enemy fire, set up ambushes, "
-"or infiltrate the enemy base unnoticed through winding highland paths."
+"Steep terrain with numerous cliffs and stones can serve as a perfect cover "
+"from enemy fire. Use the hills to set up ambushes, or infiltrate the enemy "
+"base unnoticed through winding highland paths."
 
 msgid "37_caucasus/name"
 msgstr "Mountain Pass"
@@ -305,6 +306,15 @@ msgstr ""
 
 msgid "42_north_america/name"
 msgstr "Port"
+
+msgid "43_north_america/description"
+msgstr ""
+"This map features abundant rocks and trees. Cliffs, houses, and huge "
+"boulders provide cover, even in the most open areas of the map. Several "
+"settlements and mines can be used as strongpoints for defensive operations."
+
+msgid "43_north_america/name"
+msgstr "Northwest"
 
 msgid "44_north_america/description"
 msgstr ""
