@@ -353,6 +353,16 @@ msgstr ""
 msgid "51_asia/name"
 msgstr "Dragon Ridge"
 
+msgid "53_japan/description"
+msgstr ""
+"The protected base of the mountain is the preferred route for heavy tanks. "
+"Fast and agile vehicles may consider a village assault. However, a hill in "
+"the center of the map provides a perfect vantage point to dominate the "
+"surrounding area. Control over this hill is often crucial."
+
+msgid "53_japan/name"
+msgstr "Hidden Village"
+
 msgid "59_asia_great_wall/description"
 msgstr ""
 "This map offers many roads and canyons, giving great opportunities for light"

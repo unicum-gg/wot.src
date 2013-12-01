@@ -129,6 +129,10 @@
 		<name>42_north_america</name>
 	</map>
 	<map>
+		<id>43</id>
+		<name>53_japan</name>
+	</map>
+	<map>
 		<id>44</id>
 		<name>51_asia</name>
 	</map>
