@@ -20,7 +20,7 @@
 			<roundLength>600</roundLength>
 			<winnerIfTimeout>1</winnerIfTimeout>
 		</assault>
-		<escort/>
+		<nations/>
 		<ctf2/>
 		<domination2/>
 		<assault2>

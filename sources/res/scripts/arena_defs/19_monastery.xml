@@ -35,5 +35,15 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<nations>
+			<teamBasePositions>
+				<team1>
+					<position1>20.061766 -387.906860</position1>
+				</team1>
+				<team2>
+					<position1>-0.393303 397.375824</position1>
+				</team2>
+			</teamBasePositions>
+		</nations>
 	</gameplayTypes>
 </root>

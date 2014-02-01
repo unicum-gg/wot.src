@@ -27,12 +27,22 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>106.300003 -402.543488</position1>
+					<position1>106.299973 -402.543365</position1>
 				</team1>
 				<team2>
-					<position1>114.694191 350.556519</position1>
+					<position1>114.694183 350.556488</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<nations>
+			<teamBasePositions>
+				<team1>
+					<position1>106.299973 -402.543365</position1>
+				</team1>
+				<team2>
+					<position1>114.694183 350.556488</position1>
+				</team2>
+			</teamBasePositions>
+		</nations>
 	</gameplayTypes>
 </root>

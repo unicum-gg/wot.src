@@ -125,10 +125,6 @@
 		<name>45_north_america</name>
 	</map>
 	<map>
-		<id>36</id>
-		<name>42_north_america</name>
-	</map>
-	<map>
 		<id>43</id>
 		<name>53_japan</name>
 	</map>
@@ -159,5 +155,17 @@
 	<map>
 		<id>55</id>
 		<name>63_tundra</name>
+	</map>
+	<map>
+		<id>56</id>
+		<name>84_winter</name>
+	</map>
+	<map>
+		<id>57</id>
+		<name>86_himmelsdorf_winter</name>
+	</map>
+	<map>
+		<id>58</id>
+		<name>87_ruinberg_on_fire</name>
 	</map>
 </root>

@@ -42,5 +42,15 @@
 				</team2>
 			</teamSpawnPoints>
 		</domination>
+		<nations>
+			<teamBasePositions>
+				<team1>
+					<position1>-66.399994 306.100006</position1>
+				</team1>
+				<team2>
+					<position1>-82.900002 -290.899994</position1>
+				</team2>
+			</teamBasePositions>
+		</nations>
 	</gameplayTypes>
 </root>

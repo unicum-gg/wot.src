@@ -65,5 +65,15 @@
 			</teamBasePositions>
 			<controlPoint>258.768799 132.322540</controlPoint>
 		</domination>
+		<nations>
+			<teamBasePositions>
+				<team1>
+					<position1>175.783722 -305.848389</position1>
+				</team1>
+				<team2>
+					<position1>-236.649063 329.674500</position1>
+				</team2>
+			</teamBasePositions>
+		</nations>
 	</gameplayTypes>
 </root>

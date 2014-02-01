@@ -57,5 +57,35 @@
 				</team2>
 			</teamSpawnPoints>
 		</ctf>
+		<nations>
+			<teamBasePositions>
+				<team1>
+					<position1>
+						209.8 353.700
+						<!--BW_String-->
+					</position1>
+				</team1>
+				<team2>
+					<position1>
+						-171.593 -308.134
+						<!--BW_String-->
+					</position1>
+				</team2>
+			</teamBasePositions>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						-259.244 330.718
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						303.470 -304.214
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+		</nations>
 	</gameplayTypes>
 </root>

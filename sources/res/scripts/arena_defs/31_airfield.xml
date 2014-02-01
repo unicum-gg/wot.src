@@ -34,6 +34,16 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<nations>
+			<teamBasePositions>
+				<team1>
+					<position1>360.648438 -154.437271</position1>
+				</team1>
+				<team2>
+					<position1>-324.047974 -176.182037</position1>
+				</team2>
+			</teamBasePositions>
+		</nations>
 	</gameplayTypes>
 	<mapActivities>
 		<warplane>
