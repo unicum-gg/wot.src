@@ -21,6 +21,7 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
+	<ambientSound>/wind/wind/wind_winter_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -91,21 +92,5 @@
 			</teamBasePositions>
 			<controlPoint>-21.000046 -3.300049</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>
-						152.892 -405.200
-						<!--BW_String-->
-					</position1>
-				</team1>
-				<team2>
-					<position1>
-						-125.1 402.900
-						<!--BW_String-->
-					</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -55,15 +56,5 @@
 			</teamBasePositions>
 			<controlPoint>-199.817276 39.766937</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>-3.300018 -422.899994</position1>
-				</team1>
-				<team2>
-					<position1>-0.016998 410.252899</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

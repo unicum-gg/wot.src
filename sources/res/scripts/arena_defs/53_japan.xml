@@ -17,7 +17,8 @@
 	<minimap>spaces/53_japan/mmap.dds</minimap>
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
-	<loadingMusic>/music/intro/euro_city</loadingMusic>
+	<loadingMusic>/music/intro/Japan</loadingMusic>
+	<ambientSound>/wind/wind/wind_spring_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -34,15 +35,5 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>391.107666 -301.241119</position1>
-				</team1>
-				<team2>
-					<position1>-311.488647 384.847626</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

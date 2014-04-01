@@ -20,6 +20,7 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/desert</loadingMusic>
+	<ambientSound>/wind/wind/wind_desert_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -57,15 +58,5 @@
 				<team2/>
 			</teamBasePositions>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team2>
-					<position1>-338.583160 -319.307434</position1>
-				</team2>
-				<team1>
-					<position1>299.255981 319.405975</position1>
-				</team1>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

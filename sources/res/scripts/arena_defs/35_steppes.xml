@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<ambientSound>/wind/wind/wind_summer_01</ambientSound>
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>
@@ -50,15 +51,5 @@
 			</teamBasePositions>
 			<controlPoint>372.661407 252.999985</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>228.220047 -341.927887</position1>
-				</team1>
-				<team2>
-					<position1>-88.818558 361.861755</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

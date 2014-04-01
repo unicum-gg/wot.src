@@ -29,18 +29,9 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>157.199982 -304.800018</position1>
-				</team1>
-				<team2>
-					<position1>-174.800003 304.399994</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>
+	<ambientSound>/wind/wind/wind_spring_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>

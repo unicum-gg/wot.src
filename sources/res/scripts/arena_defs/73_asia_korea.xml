@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>winter</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
+	<ambientSound>/wind/wind/wind_winter_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -55,15 +56,5 @@
 			</teamBasePositions>
 			<controlPoint>16.399994 -269.397186</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>271.299988 252.701843</position1>
-				</team1>
-				<team2>
-					<position1>-270.591034 -298.516724</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

@@ -17,7 +17,8 @@
 	<minimap>spaces/45_north_america/mmap.dds</minimap>
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
-	<loadingMusic>/music/intro/euro_city</loadingMusic>
+	<loadingMusic>/music/intro/America</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -34,15 +35,5 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>197.412552 356.577179</position1>
-				</team1>
-				<team2>
-					<position1>-343.146606 -327.370056</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

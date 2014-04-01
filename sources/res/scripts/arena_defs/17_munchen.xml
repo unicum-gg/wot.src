@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -34,16 +35,6 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>-83.669548 -201.705368</position1>
-				</team1>
-				<team2>
-					<position1>61.929901 242.775330</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

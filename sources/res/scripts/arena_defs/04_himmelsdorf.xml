@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
+	<ambientSound>/wind/wind/wind_spring_01</ambientSound>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<gameplayTypes>
@@ -52,15 +53,5 @@
 			</teamBasePositions>
 			<controlPoint>-223.100113 64.999939</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>2.499999 -252.600128</position1>
-				</team1>
-				<team2>
-					<position1>69.099937 348.999969</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

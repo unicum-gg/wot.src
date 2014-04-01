@@ -21,6 +21,7 @@
 	<batchingEnabled>0</batchingEnabled>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
+	<ambientSound>/wind/wind/wind_winter_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -30,62 +31,12 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>
-						209.8 353.700
-						<!--BW_String-->
-					</position1>
+					<position1>12.668219 349.515045</position1>
 				</team1>
 				<team2>
-					<position1>
-						-171.593 -308.134
-						<!--BW_String-->
-					</position1>
+					<position1>9.395152 -334.988678</position1>
 				</team2>
 			</teamBasePositions>
-			<teamSpawnPoints>
-				<team1>
-					<position>
-						-259.244 330.718
-						<!--BW_String-->
-					</position>
-				</team1>
-				<team2>
-					<position>
-						303.470 -304.214
-						<!--BW_String-->
-					</position>
-				</team2>
-			</teamSpawnPoints>
 		</ctf>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>
-						209.8 353.700
-						<!--BW_String-->
-					</position1>
-				</team1>
-				<team2>
-					<position1>
-						-171.593 -308.134
-						<!--BW_String-->
-					</position1>
-				</team2>
-			</teamBasePositions>
-			<teamSpawnPoints>
-				<team1>
-					<position>
-						-259.244 330.718
-						<!--BW_String-->
-					</position>
-				</team1>
-				<team2>
-					<position>
-						303.470 -304.214
-						<!--BW_String-->
-					</position>
-				</team2>
-			</teamSpawnPoints>
-		</nations>
 	</gameplayTypes>
 </root>

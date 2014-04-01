@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -94,15 +95,5 @@
 				<team2/>
 			</teamBasePositions>
 		</assault>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>255.799973 -439.829987</position1>
-				</team1>
-				<team2>
-					<position1>283.845825 434.601959</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

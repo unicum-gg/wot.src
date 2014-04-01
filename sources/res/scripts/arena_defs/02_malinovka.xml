@@ -19,6 +19,7 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/Intro_Malinovka</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -56,16 +57,6 @@
 			</teamBasePositions>
 			<controlPoint>-43.884850 -85.558708</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>75.599899 -391.945526</position1>
-				</team1>
-				<team2>
-					<position2>-372.699860 108.119644</position2>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 	<useAdvancedPhysics>true</useAdvancedPhysics>
 </root>

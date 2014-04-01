@@ -37,23 +37,6 @@
 				<team2/>
 			</teamBasePositions>
 		</ctf>
-		<nations>
-			<teamSpawnPoints>
-				<team1>
-					<position>
-						60 -340.00
-						<!--BW_String-->
-					</position>
-				</team1>
-				<team2>
-					<position>-107 342</position>
-				</team2>
-			</teamSpawnPoints>
-			<teamBasePositions>
-				<team1/>
-				<team2/>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 	<music>/music/tutorial/battle_music</music>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>

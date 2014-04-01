@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<maxPlayersInTeam>15</maxPlayersInTeam>
 	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<water>
@@ -62,15 +63,5 @@
 				<team2/>
 			</teamBasePositions>
 		</assault>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>397.532227 402.584412</position1>
-				</team1>
-				<team2>
-					<position1>-401.340332 -399.975006</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

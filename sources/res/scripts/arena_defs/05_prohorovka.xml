@@ -20,6 +20,7 @@
 	<batchingEnabled>0</batchingEnabled>
 	<defaultGroundEffect>ground</defaultGroundEffect>
 	<loadingMusic>/music/intro/rus_village</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -65,15 +66,5 @@
 			</teamBasePositions>
 			<controlPoint>171.058380 16.351452</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>-125.100021 448.300110</position1>
-				</team1>
-				<team2>
-					<position1>51.599991 -447.000000</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

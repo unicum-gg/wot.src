@@ -20,6 +20,7 @@
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<loadingMusic>/music/intro/rus_city</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>
@@ -52,15 +53,5 @@
 			</teamBasePositions>
 			<controlPoint>-82.768829 2.876255</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>20.299999 249.699997</position1>
-				</team1>
-				<team2>
-					<position1>19.099998 -248.700012</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

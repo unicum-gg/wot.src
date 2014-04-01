@@ -21,6 +21,7 @@
 	<batchingEnabled>0</batchingEnabled>
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<loadingMusic>/music/intro/Intro_Himmelsdorf</loadingMusic>
+	<ambientSound>/wind/wind/wind_spring_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -52,15 +53,5 @@
 			</teamBasePositions>
 			<controlPoint>258.899963 -4.200012</controlPoint>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>-169.513458 319.351288</position1>
-				</team1>
-				<team2>
-					<position1>-169.513443 -319.048615</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

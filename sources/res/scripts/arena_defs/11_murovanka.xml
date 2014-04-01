@@ -19,7 +19,7 @@
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
-	<loadingMusic>/music/intro/Intro_Malinovka</loadingMusic>
+	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -53,15 +53,5 @@
 				</team2>
 			</teamSpawnPoints>
 		</domination>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>202.800003 296.099976</position1>
-				</team1>
-				<team2>
-					<position1>-205.000015 -292.799988</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>

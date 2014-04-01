@@ -18,6 +18,7 @@
 	<vehicleCamouflageKind>summer</vehicleCamouflageKind>
 	<umbraEnabled>1</umbraEnabled>
 	<loadingMusic>/music/intro/euro_village</loadingMusic>
+	<ambientSound>/wind/wind/wind_summer_01</ambientSound>
 	<water>
 		<texScale>0</texScale>
 		<freqX>0</freqX>
@@ -28,22 +29,12 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>-46.411877 195.496643</position1>
+					<position1>-317.600006 299.599915</position1>
 				</team1>
 				<team2>
-					<position1>365.483002 -76.165680</position1>
+					<position1>300.993347 -304.450684</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
-		<nations>
-			<teamBasePositions>
-				<team1>
-					<position1>-46.411877 195.496643</position1>
-				</team1>
-				<team2>
-					<position1>365.483002 -76.165680</position1>
-				</team2>
-			</teamBasePositions>
-		</nations>
 	</gameplayTypes>
 </root>
