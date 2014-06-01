@@ -39,13 +39,13 @@
 			<teamSpawnPoints>
 				<team1>
 					<position>
-						253.7 155.400
+						215.372 99.746
 						<!--BW_String-->
 					</position>
 				</team1>
 				<team2>
 					<position>
-						-301.500 115.800
+						-293.437 73.65
 						<!--BW_String-->
 					</position>
 				</team2>
@@ -54,7 +54,7 @@
 				<team1/>
 				<team2/>
 			</teamBasePositions>
-			<controlPoint>16.399994 -269.397186</controlPoint>
+			<controlPoint>16.399990 -269.409363</controlPoint>
 		</domination>
 	</gameplayTypes>
 </root>

@@ -164,4 +164,12 @@
 		<id>58</id>
 		<name>87_ruinberg_on_fire</name>
 	</map>
+	<map>
+		<id>60</id>
+		<name>83_kharkiv</name>
+	</map>
+	<map>
+		<id>61</id>
+		<name>99_himmelball</name>
+	</map>
 </root>

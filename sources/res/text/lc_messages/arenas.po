@@ -376,10 +376,10 @@ msgstr "Pearl River"
 
 msgid "63_tundra/description"
 msgstr ""
-"A mountain in the east offers the possibility of dominating from the high "
+"The mountain in the east offers the possibility of dominating from the high "
 "ground, while the central part of the map offers a wide range of tactical "
-"advantages. The swamp in the west may make it possible to spot the enemy "
-"rear area or mount a surprise attack."
+"advantages. A village and a bypass road are located in the west, creating an"
+" opportunity for unexpected maneuvers and tactics."
 
 msgid "63_tundra/name"
 msgstr "Tundra"
@@ -392,6 +392,15 @@ msgstr ""
 
 msgid "73_asia_korea/name"
 msgstr "Sacred Valley"
+
+msgid "83_kharkiv/description"
+msgstr ""
+"City blocks in the center of the map bear the highest strategic importance. "
+"The map also offers two alternative options: the city square, perfect for "
+"long distance fighting; and an open area, excellent for fast vehicles."
+
+msgid "83_kharkiv/name"
+msgstr "Kharkov"
 
 msgid "84_winter/description"
 msgstr ""
@@ -430,6 +439,12 @@ msgstr ""
 
 msgid "87_ruinberg_on_fire/name"
 msgstr "Ruinberg on Fire"
+
+msgid "99_himmelball/description"
+msgstr "Fight an intense battle to win the Himmelsdorf Сhampionship!"
+
+msgid "99_himmelball/name"
+msgstr "Himmelsdorf Championship"
 
 msgid "type/assault/description1"
 msgstr "Mission: keep the friendly base secure or destroy all enemy vehicles."
@@ -471,6 +486,12 @@ msgstr ""
 
 msgid "type/escort/name"
 msgstr "Escort"
+
+msgid "type/football/description"
+msgstr "Mission: score 3 goals. Match time: 5 minutes."
+
+msgid "type/football/name"
+msgstr "Football Match"
 
 msgid "type/nations/description"
 msgstr "Mission: capture the base or destroy all enemy vehicles."

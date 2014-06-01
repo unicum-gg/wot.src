@@ -13,6 +13,7 @@
 	<defaultReverbPreset/>
 	<explicitRequestOnly>false</explicitRequestOnly>
 	<defaultGroundEffect>None</defaultGroundEffect>
+	<battleCountdownTimerSound>/GUI/notifications_FX/timer</battleCountdownTimerSound>
 	<gameplayTypes>
 		<ctf/>
 		<domination/>
