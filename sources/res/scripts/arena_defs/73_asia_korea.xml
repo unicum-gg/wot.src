@@ -28,10 +28,10 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>271.299988 252.701843</position1>
+					<position1>271.299927 252.732544</position1>
 				</team1>
 				<team2>
-					<position1>-270.591034 -298.516724</position1>
+					<position1>-270.591003 -298.516693</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
@@ -45,7 +45,7 @@
 				</team1>
 				<team2>
 					<position>
-						-293.437 73.65
+						-294.259 44.441
 						<!--BW_String-->
 					</position>
 				</team2>
@@ -54,7 +54,7 @@
 				<team1/>
 				<team2/>
 			</teamBasePositions>
-			<controlPoint>16.399990 -269.409363</controlPoint>
+			<controlPoint>16.409658 -269.409363</controlPoint>
 		</domination>
 	</gameplayTypes>
 </root>

@@ -141,6 +141,10 @@
 		<name>85_winter</name>
 	</map>
 	<map>
+		<id>51</id>
+		<name>73_asia_korea</name>
+	</map>
+	<map>
 		<id>52</id>
 		<name>60_asia_miao</name>
 	</map>
@@ -169,7 +173,7 @@
 		<name>83_kharkiv</name>
 	</map>
 	<map>
-		<id>61</id>
-		<name>99_himmelball</name>
+		<id>62</id>
+		<name>96_prohorovka_defense</name>
 	</map>
 </root>
