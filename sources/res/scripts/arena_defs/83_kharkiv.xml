@@ -30,6 +30,9 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<preloadSoundGroups>
+		<groupName>/combat_atmosphere/historical_weapons</groupName>
+	</preloadSoundGroups>
 	<loadingMusic>/music/intro/kharkov</loadingMusic>
 	<ambientSound>/wind/wind/wind_winter_01</ambientSound>
 	<water>

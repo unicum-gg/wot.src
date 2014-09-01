@@ -67,196 +67,159 @@
 			<controlPoint>171.058350 16.351446</controlPoint>
 		</domination>
 	</gameplayTypes>
+	<preloadSoundGroups>
+		<groupName>/combat_atmosphere/combat_atmosphere</groupName>
+		<groupName>/plane/planes_with_automatic_weapons</groupName>
+		<groupName>/plane/crashes</groupName>
+		<groupName>/plane/planes</groupName>
+	</preloadSoundGroups>
 	<mapActivities>
-		<warplane>
-			<preset>prohorovka_defense_sc1_a1</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
+		<scenario>
 			<startTime>30.000000 30.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc1_a2</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
 			<possibility>1.000000</possibility>
-			<startTime>30.000000 30.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc1_a3</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>30.000000 30.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc1_a4</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>30.000000 30.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc1_a5</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>30.000000 30.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc1_a6</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>30.000000 30.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc2_a1</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
+			<period>450.000000</period>
+			<trajectories>
+				<warplane>
+					<preset>prohorovka_defense_sc1_a1</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc1_a2</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc1_a3</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc1_a4</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc1_a5</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc1_a6</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+			</trajectories>
+		</scenario>
+		<scenario>
 			<startTime>170.000000 170.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc2_a2</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
 			<possibility>1.000000</possibility>
-			<startTime>170.000000 170.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc2_a3</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>170.000000 170.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc2_a4</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>170.000000 170.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc3_a1</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>291.500000 291.500000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc3_a2</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>291.500000 291.500000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc3_a3</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
+			<period>450.000000</period>
+			<trajectories>
+				<warplane>
+					<preset>prohorovka_defense_sc2_a1</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc2_a2</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc2_a3</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc2_a4</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+			</trajectories>
+		</scenario>
+		<scenario>
 			<startTime>290.000000 290.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc3_a4</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
 			<possibility>1.000000</possibility>
-			<startTime>290.000000 290.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc4_a1</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
+			<period>450.000000</period>
+			<trajectories>
+				<warplane>
+					<preset>prohorovka_defense_sc3_a1</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc3_a2</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc3_a3</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc3_a4</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+			</trajectories>
+		</scenario>
+		<scenario>
 			<startTime>410.000000 410.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc4_a2</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
 			<possibility>1.000000</possibility>
-			<startTime>416.000000 416.000000</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
-		<warplane>
-			<preset>prohorovka_defense_sc4_a3</preset>
-			<position>0.000000 0.000000 0.000000</position>
-			<yaw>0.000000</yaw>
-			<possibility>1.000000</possibility>
-			<startTime>
-				416.00000 416.00000
-				<!--BW_String-->
-			</startTime>
-			<period>
-				450.0
-				<!--BW_String-->
-			</period>
-		</warplane>
+			<period>450.000000</period>
+			<trajectories>
+				<warplane>
+					<preset>prohorovka_defense_sc4_a1</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>0.000000 0.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc4_a2</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>6.000000 6.000000</startTime>
+				</warplane>
+				<warplane>
+					<preset>prohorovka_defense_sc4_a3</preset>
+					<position>0.000000 0.000000 0.000000</position>
+					<yaw>0.000000</yaw>
+					<possibility>1.000000</possibility>
+					<startTime>6.000000 6.000000</startTime>
+				</warplane>
+			</trajectories>
+		</scenario>
 	</mapActivities>
 </root>

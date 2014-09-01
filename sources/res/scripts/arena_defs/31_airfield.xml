@@ -36,6 +36,9 @@
 			</teamBasePositions>
 		</ctf>
 	</gameplayTypes>
+	<preloadSoundGroups>
+		<groupName>/objects/aircraft</groupName>
+	</preloadSoundGroups>
 	<mapActivities>
 		<warplane>
 			<preset>airfield_curve</preset>

@@ -6,11 +6,11 @@
 	<roundLength>900</roundLength>
 	<boundingBox>
 		<bottomLeft>
-			-400.0 -400.0
+			-500.0 -500.0
 			<!--BW_String-->
 		</bottomLeft>
 		<upperRight>
-			400.0 400.0
+			500.0 500.0
 			<!--BW_String-->
 		</upperRight>
 	</boundingBox>
@@ -30,15 +30,20 @@
 		<ctf>
 			<teamBasePositions>
 				<team1>
-					<position1>202.800003 296.099976</position1>
+					<position1>
+						-55.000046 417.300
+						<!--BW_String-->
+					</position1>
 				</team1>
 				<team2>
-					<position1>-205.000015 -292.799988</position1>
+					<position1>
+						-55.000050 -407.199
+						<!--BW_String-->
+					</position1>
 				</team2>
 			</teamBasePositions>
 		</ctf>
 		<domination>
-			<controlPoint>-336.017883 58.398434</controlPoint>
 			<teamSpawnPoints>
 				<team1>
 					<position>
@@ -53,6 +58,11 @@
 					</position>
 				</team2>
 			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1/>
+				<team2/>
+			</teamBasePositions>
+			<controlPoint>-349.723114 6.166060</controlPoint>
 		</domination>
 	</gameplayTypes>
 </root>

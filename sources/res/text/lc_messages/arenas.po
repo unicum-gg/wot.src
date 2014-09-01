@@ -102,6 +102,12 @@ msgstr ""
 msgid "08_ruinberg/name"
 msgstr "Ruinberg"
 
+msgid "102_deathtrack/description"
+msgstr "Fasten your seat belts! On your marks! Get set! Go!"
+
+msgid "102_deathtrack/name"
+msgstr "Tank Rally"
+
 msgid "10_hills/description"
 msgstr ""
 "A high hill in the center of the map provides a perfect outpost for your "
@@ -490,12 +496,6 @@ msgstr ""
 
 msgid "type/escort/name"
 msgstr "Escort"
-
-msgid "type/football/description"
-msgstr "Mission: score 3 goals. Match time: 5 minutes."
-
-msgid "type/football/name"
-msgstr "Football Match"
 
 msgid "type/nations/description"
 msgstr "Mission: capture the base or destroy all enemy vehicles."

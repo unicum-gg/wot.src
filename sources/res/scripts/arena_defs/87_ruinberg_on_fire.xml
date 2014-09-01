@@ -21,6 +21,9 @@
 	<defaultGroundEffect>None</defaultGroundEffect>
 	<loadingMusic>/music/intro/euro_city</loadingMusic>
 	<ambientSound>/wind/wind/wind_autumn_01</ambientSound>
+	<preloadSoundGroups>
+		<groupName>/combat_atmosphere/combat_atmosphere</groupName>
+	</preloadSoundGroups>
 	<gameplayTypes>
 		<ctf>
 			<teamBasePositions>
