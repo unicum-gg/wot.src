@@ -102,12 +102,6 @@ msgstr ""
 msgid "08_ruinberg/name"
 msgstr "Ruinberg"
 
-msgid "102_deathtrack/description"
-msgstr "Fasten your seat belts! On your marks! Get set! Go!"
-
-msgid "102_deathtrack/name"
-msgstr "Tank Rally"
-
 msgid "10_hills/description"
 msgstr ""
 "A high hill in the center of the map provides a perfect outpost for your "
@@ -445,6 +439,15 @@ msgstr ""
 msgid "87_ruinberg_on_fire/name"
 msgstr "Ruinberg on Fire"
 
+msgid "92_stalingrad/description"
+msgstr ""
+"Dense urban conditions in the center of the map are the setting for close-"
+"quarters encounters, while the waterfront is suitable for fast-paced "
+"engagements and more maneuverable vehicles."
+
+msgid "92_stalingrad/name"
+msgstr "Stalingrad"
+
 msgid "96_prohorovka_defense/description"
 msgstr ""
 "Generally open terrain featuring a large hill and a railway embankment. "
@@ -464,6 +467,17 @@ msgstr "Mission: capture the enemy base or destroy all enemy vehicles."
 
 msgid "type/assault/name"
 msgstr "Assault"
+
+msgid "type/assault2/description1"
+msgstr ""
+"Mission: keep the friendly bases secure or destroy all enemy vehicles."
+
+msgid "type/assault2/description2"
+msgstr ""
+"Mission: capture one of the enemy bases or destroy all enemy vehicles."
+
+msgid "type/assault2/name"
+msgstr "Attack/Defense"
 
 msgid "type/ctf/description"
 msgstr "Mission: capture the enemy base or destroy all enemy vehicles."

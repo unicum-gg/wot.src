@@ -43,5 +43,35 @@
 				</team2>
 			</teamSpawnPoints>
 		</domination>
+		<assault2>
+			<winnerIfTimeout>1</winnerIfTimeout>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						320.434 334.328
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						-336.217 -48.082
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1>
+					<position1>
+						-66.4 306.100
+						<!--BW_String-->
+					</position1>
+					<position2>
+						218.304 -88.969
+						<!--BW_String-->
+					</position2>
+				</team1>
+				<team2/>
+			</teamBasePositions>
+		</assault2>
 	</gameplayTypes>
 </root>

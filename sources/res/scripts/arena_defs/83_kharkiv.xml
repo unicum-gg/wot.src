@@ -29,6 +29,36 @@
 				</team2>
 			</teamBasePositions>
 		</ctf>
+		<assault2>
+			<winnerIfTimeout>1</winnerIfTimeout>
+			<teamSpawnPoints>
+				<team1>
+					<position>
+						309.927 -326.182
+						<!--BW_String-->
+					</position>
+				</team1>
+				<team2>
+					<position>
+						-87.194 125.21
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1>
+					<position1>
+						7.447 -296.809
+						<!--BW_String-->
+					</position1>
+					<position2>
+						287.047 -19.499
+						<!--BW_String-->
+					</position2>
+				</team1>
+				<team2/>
+			</teamBasePositions>
+		</assault2>
 	</gameplayTypes>
 	<preloadSoundGroups>
 		<groupName>/combat_atmosphere/historical_weapons</groupName>
