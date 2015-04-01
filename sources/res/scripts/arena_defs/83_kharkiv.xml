@@ -28,9 +28,14 @@
 					<position1>249.117920 193.813950</position1>
 				</team2>
 			</teamBasePositions>
+			<artilleryPreparationChance>
+				0.7
+				<!--BW_String-->
+			</artilleryPreparationChance>
 		</ctf>
 		<assault2>
 			<winnerIfTimeout>1</winnerIfTimeout>
+			<winnerIfExtermination>1</winnerIfExtermination>
 			<teamSpawnPoints>
 				<team1>
 					<position>

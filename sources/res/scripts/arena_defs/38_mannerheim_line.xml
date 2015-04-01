@@ -37,6 +37,7 @@
 		</ctf>
 		<assault2>
 			<winnerIfTimeout>1</winnerIfTimeout>
+			<winnerIfExtermination>1</winnerIfExtermination>
 			<teamSpawnPoints>
 				<team1>
 					<position>

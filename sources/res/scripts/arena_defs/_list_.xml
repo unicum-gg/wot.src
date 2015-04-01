@@ -117,10 +117,6 @@
 		<name>39_crimea</name>
 	</map>
 	<map>
-		<id>33</id>
-		<name>43_north_america</name>
-	</map>
-	<map>
 		<id>34</id>
 		<name>45_north_america</name>
 	</map>
@@ -129,16 +125,8 @@
 		<name>53_japan</name>
 	</map>
 	<map>
-		<id>44</id>
-		<name>51_asia</name>
-	</map>
-	<map>
 		<id>49</id>
 		<name>47_canada_a</name>
-	</map>
-	<map>
-		<id>50</id>
-		<name>85_winter</name>
 	</map>
 	<map>
 		<id>51</id>
@@ -165,10 +153,6 @@
 		<name>86_himmelsdorf_winter</name>
 	</map>
 	<map>
-		<id>58</id>
-		<name>87_ruinberg_on_fire</name>
-	</map>
-	<map>
 		<id>60</id>
 		<name>83_kharkiv</name>
 	</map>
@@ -179,5 +163,21 @@
 	<map>
 		<id>66</id>
 		<name>92_stalingrad</name>
+	</map>
+	<map>
+		<id>67</id>
+		<name>100_thepit</name>
+	</map>
+	<map>
+		<id>68</id>
+		<name>95_lost_city</name>
+	</map>
+	<map>
+		<id>69</id>
+		<name>103_ruinberg_winter</name>
+	</map>
+	<map>
+		<id>70</id>
+		<name>101_dday</name>
 	</map>
 </root>

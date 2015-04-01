@@ -36,6 +36,10 @@
 					<position1>51.599983 -447.000000</position1>
 				</team2>
 			</teamBasePositions>
+			<artilleryPreparationChance>
+				0.7
+				<!--BW_String-->
+			</artilleryPreparationChance>
 		</ctf>
 		<domination>
 			<teamSpawnPoints>
@@ -65,6 +69,10 @@
 				<team2/>
 			</teamBasePositions>
 			<controlPoint>171.058350 16.351446</controlPoint>
+			<artilleryPreparationChance>
+				0.5
+				<!--BW_String-->
+			</artilleryPreparationChance>
 		</domination>
 	</gameplayTypes>
 	<preloadSoundGroups>

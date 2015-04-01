@@ -55,6 +55,7 @@
 		</domination>
 		<assault2>
 			<winnerIfTimeout>1</winnerIfTimeout>
+			<winnerIfExtermination>1</winnerIfExtermination>
 			<teamSpawnPoints>
 				<team1>
 					<position>
@@ -72,11 +73,11 @@
 			<teamBasePositions>
 				<team1>
 					<position1>
-						-216.336 11.151
+						-214.139 18.498
 						<!--BW_String-->
 					</position1>
 					<position2>
-						69.1 349.000
+						76.655 335.341
 						<!--BW_String-->
 					</position2>
 				</team1>

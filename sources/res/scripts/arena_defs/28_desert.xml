@@ -83,5 +83,33 @@
 			</teamBasePositions>
 			<controlPoint>-89.697029 -323.644165</controlPoint>
 		</domination>
+		<assault2>
+			<winnerIfTimeout>1</winnerIfTimeout>
+			<winnerIfExtermination>1</winnerIfExtermination>
+			<teamSpawnPoints>
+				<team1>
+					<position>430 186</position>
+				</team1>
+				<team2>
+					<position>
+						-433.379 152.272
+						<!--BW_String-->
+					</position>
+				</team2>
+			</teamSpawnPoints>
+			<teamBasePositions>
+				<team1>
+					<position1>
+						249.901 -208.7
+						<!--BW_String-->
+					</position1>
+					<position2>
+						116.863 310.117
+						<!--BW_String-->
+					</position2>
+				</team1>
+				<team2/>
+			</teamBasePositions>
+		</assault2>
 	</gameplayTypes>
 </root>

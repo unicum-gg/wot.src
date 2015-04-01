@@ -35,6 +35,10 @@
 					<position2>-372.699860 108.119644</position2>
 				</team2>
 			</teamBasePositions>
+			<artilleryPreparationChance>
+				0.6
+				<!--BW_String-->
+			</artilleryPreparationChance>
 		</ctf>
 		<domination>
 			<teamSpawnPoints>

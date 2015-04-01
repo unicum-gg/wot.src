@@ -34,6 +34,10 @@
 					<position1>-105.683617 -406.502777</position1>
 				</team2>
 			</teamBasePositions>
+			<artilleryPreparationChance>
+				0.7
+				<!--BW_String-->
+			</artilleryPreparationChance>
 		</ctf>
 	</gameplayTypes>
 	<mapActivities/>

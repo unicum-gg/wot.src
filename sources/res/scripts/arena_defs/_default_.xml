@@ -5,13 +5,14 @@
 	<runDelay>30</runDelay>
 	<roundLength>900</roundLength>
 	<winnerIfTimeout>0</winnerIfTimeout>
+	<winnerIfExtermination>0</winnerIfExtermination>
 	<artilleryPreparationChance>
 		0.0
 		<!--BW_String-->
 	</artilleryPreparationChance>
 	<music>/music/combat/combat</music>
 	<loadingMusic>/music/main_menu/main_menu</loadingMusic>
-	<ambientSound>/ambient/wind/wind</ambientSound>
+	<ambientSound>/wind/wind/wind_summer_01</ambientSound>
 	<umbraEnabled>1</umbraEnabled>
 	<batchingEnabled>0</batchingEnabled>
 	<defaultReverbPreset/>
@@ -28,8 +29,9 @@
 		<ctf2/>
 		<domination2/>
 		<assault2>
-			<roundLength>900</roundLength>
+			<roundLength>420</roundLength>
 			<winnerIfTimeout>1</winnerIfTimeout>
+			<winnerIfExtermination>1</winnerIfExtermination>
 		</assault2>
 	</gameplayTypes>
 	<preloadSoundGroups>
