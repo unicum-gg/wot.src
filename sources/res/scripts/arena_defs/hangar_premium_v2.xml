@@ -4,4 +4,5 @@
   <wwmusic>	hangar_prem_v2_music_lobby	</wwmusic>
   <ambientSound>	/hangar/ambient/hangar_prem_v2/hangar_prem_v2_background	</ambientSound>
   <wwambientSound>	hangar_prem_v2_background	</wwambientSound>
+  <preloadSoundBanks>	hangar_prem_v2.bnk	</preloadSoundBanks>
 </root>
