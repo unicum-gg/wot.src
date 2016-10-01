@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <wwmusic>	hangar_h17_music_silence	</wwmusic>
-  <wwambientSound>	hangar_h17_ambient_silence	</wwambientSound>
+  <wwmusic>	hangar_11nov_music	</wwmusic>
+  <wwambientSound>	hangar_11nov_amb	</wwambientSound>
   <soundRemapping>
     <loadBanks>
-      <bank>	hangar_h17_thgday_KR_2016.bnk	</bank>
+      <bank>	hangar_11nov_h06_vetday_2015.bnk	</bank>
     </loadBanks>
     <unloadBanks>
-      <bank>	hangar_prem_v2.bnk	</bank>
       <bank>	hangar_v2.bnk	</bank>
     </unloadBanks>
   </soundRemapping>
