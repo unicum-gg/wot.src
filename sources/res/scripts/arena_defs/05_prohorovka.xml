@@ -110,7 +110,9 @@
     <scenario>
       <startTime>	30.000000 30.000000	</startTime>
       <possibility>	1.000000	</possibility>
-      <period>	450.000000	</period>
+      <interval>	450.000000	</interval>
+      <arenaPeriod>	3	</arenaPeriod>
+      <name>	prohorovka_defense_sc1	</name>
       <trajectories>
         <warplane>
           <preset>	prohorovka_defense_sc1_a1	</preset>
@@ -159,7 +161,9 @@
     <scenario>
       <startTime>	170.000000 170.000000	</startTime>
       <possibility>	1.000000	</possibility>
-      <period>	450.000000	</period>
+      <interval>	450.000000	</interval>
+      <arenaPeriod>	3	</arenaPeriod>
+      <name>	prohorovka_defense_sc2	</name>
       <trajectories>
         <warplane>
           <preset>	prohorovka_defense_sc2_a1	</preset>
@@ -194,7 +198,9 @@
     <scenario>
       <startTime>	290.000000 290.000000	</startTime>
       <possibility>	1.000000	</possibility>
-      <period>	450.000000	</period>
+      <interval>	450.000000	</interval>
+      <arenaPeriod>	3	</arenaPeriod>
+      <name>	prohorovka_defense_sc3	</name>
       <trajectories>
         <warplane>
           <preset>	prohorovka_defense_sc3_a1	</preset>
@@ -229,7 +235,9 @@
     <scenario>
       <startTime>	410.000000 410.000000	</startTime>
       <possibility>	1.000000	</possibility>
-      <period>	450.000000	</period>
+      <interval>	450.000000	</interval>
+      <arenaPeriod>	3	</arenaPeriod>
+      <name>	prohorovka_defense_sc4	</name>
       <trajectories>
         <warplane>
           <preset>	prohorovka_defense_sc4_a1	</preset>
