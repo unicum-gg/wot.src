@@ -11,13 +11,8 @@
       <bank>	hangar_premium_2018.bnk	</bank>
       <bank>	ambient.bnk	</bank>
       <bank>	env_Forest.bnk	</bank>
+      <bank>	battle_of_bloggers.bnk	</bank>
     </loadBanks>
-    <events>
-      <event>
-        <name>	hangar_newyear_tanks_set	</name>
-        <mod>	minimize	</mod>
-      </event>
-    </events>
   </soundRemapping>
   <boundingBox>
     <bottomLeft>	-100.000000 -100.000000	</bottomLeft>
