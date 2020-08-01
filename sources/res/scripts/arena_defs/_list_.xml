@@ -117,6 +117,10 @@
     <name>	63_tundra	</name>
   </map>
   <map>
+    <id>	60	</id>
+    <name>	60_asia_miao	</name>
+  </map>
+  <map>
     <id>	70	</id>
     <name>	101_dday	</name>
   </map>
@@ -157,6 +161,10 @@
     <name>	222_er_clime	</name>
   </map>
   <map>
+    <id>	86	</id>
+    <name>	250_br_battle_city2-1	</name>
+  </map>
+  <map>
     <id>	87	</id>
     <name>	95_lost_city_ctf	</name>
   </map>
@@ -171,6 +179,22 @@
   <map>
     <id>	96	</id>
     <name>	208_bf_epic_normandy	</name>
+  </map>
+  <map>
+    <id>	97	</id>
+    <name>	251_br_battle_city3	</name>
+  </map>
+  <map>
+    <id>	500	</id>
+    <name>	36_fishing_bay_wt	</name>
+  </map>
+  <map>
+    <id>	501	</id>
+    <name>	99_poland_wt	</name>
+  </map>
+  <map>
+    <id>	502	</id>
+    <name>	34_redshire_wt	</name>
   </map>
   <map>
     <id>	1008	</id>
