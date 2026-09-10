@@ -1,6 +1,6 @@
 # WOT.ASIA.PRODUCTION
 
-Decompiled World of Tanks sources for `WOT.ASIA.PRODUCTION`, currently 2.4.0.5428.
+Decompiled World of Tanks sources for `WOT.ASIA.PRODUCTION`, currently 2.4.0.5432.
 
 Rebuilt daily from Wargaming's update CDN by the generator on
 [`main`](../../tree/main), with no game client installed. Every file here is
