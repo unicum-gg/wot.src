@@ -3271,7 +3271,7 @@ msgstr ""
 
 msgid "thunderStrike/longDescr"
 msgstr ""
-"Vytváří oblast, ve které udeří s vysokou frekvencí série %(thunderCount)s elektrických výbojů. Každý výboj způsobuje {whiteSpanish_Open}%(damage)s bodů poškození{whiteSpanish_Close} a v oblasti účinku schopnosti snižuje pohyblivost vozidla.\n"
+"Vytváří oblast, ve které udeří s vysokou frekvencí série %(thunderCount)s elektrických výbojů. Každý výboj způsobuje %(damage)s bodů poškození a v oblasti účinku schopnosti snižuje pohyblivost vozidla.\n"
 "\n"
 "*Mezi aktivací této schopnosti a prvním výbojem je prodleva %(delay)s s. Negativní účinek lze odstranit pomocí sady nářadí."
 
@@ -3280,7 +3280,7 @@ msgstr "Elektrický výboj"
 
 msgid "thunderStrike/shortDescr"
 msgstr ""
-"Vytváří oblast, ve které udeří s vysokou frekvencí série %(thunderCount)s elektrických výbojů. Každý výboj způsobuje {whiteSpanish_Open}%(damage)s bodů poškození{whiteSpanish_Close} a v oblasti účinku schopnosti snižuje pohyblivost vozidla.\n"
+"Vytváří oblast, ve které udeří s vysokou frekvencí série %(thunderCount)s elektrických výbojů. Každý výboj způsobuje %(damage)s bodů poškození a v oblasti účinku schopnosti snižuje pohyblivost vozidla.\n"
 "\n"
 "*Mezi aktivací této schopnosti a prvním výbojem je prodleva %(delay)s s. Negativní účinek lze odstranit pomocí sady nářadí."
 

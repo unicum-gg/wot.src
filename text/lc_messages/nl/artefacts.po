@@ -324,8 +324,8 @@ msgstr "Luchtaanval"
 
 msgid "bomber/shortDescr"
 msgstr ""
-"Verdooft vijandelijke voertuigen en veroorzaakt een middelmatige hoeveelheid"
-" schade binnen een grote straal."
+"Verdooft vijanden en veroorzaakt een middelmatige hoeveelheid schade binnen "
+"een grote straal."
 
 msgid "brRegenerationKit/battleDescr"
 msgstr ""
@@ -1836,8 +1836,7 @@ msgstr "Ingenieurswerk"
 
 msgid "passive_engineering/shortDescr"
 msgstr ""
-"Levert een bonus aan de veroveringssnelheid, veroveringsblokkering en "
-"herbevoorrading."
+"Levert een bonus voor veroveringssnelheid en -blokkering en herbevoorrading."
 
 msgid "passive_engineering/shortFilterAlert"
 msgstr "Niet geschikt voor artillerie"
@@ -3223,8 +3222,8 @@ msgstr "Rookgordijn"
 
 msgid "smoke/shortDescr"
 msgstr ""
-"Rook verbergt alle voertuigen erin/-achter. Vijanden in rook hebben minder "
-"zicht en slechtere bemanningsprestatie."
+"Rook verbergt alle voertuigen. Vijanden in rook hebben minder zicht en "
+"slechtere bemanningen."
 
 msgid "smoothDrivingBattleBooster/action/boost"
 msgstr "Verdubbelt het effect van de comfortabele rit specialisatie"
@@ -3373,7 +3372,7 @@ msgstr ""
 
 msgid "thunderStrike/longDescr"
 msgstr ""
-"Creëert een zone waarbinnen zeer regelmatig een reeks van %(thunderCount)s elektrische ontladingen plaatsvindt. Elke ontlading veroorzaakt {whiteSpanish_Open}%(damage)s HP schade{whiteSpanish_Close} en vermindert tijdelijk de mobiliteit van alle vijandelijke voertuigen binnen het gebied van effect.\n"
+"Creëert een zone waarbinnen zeer regelmatig een reeks van %(thunderCount)s elektrische ontladingen plaatsvindt. Elke ontlading veroorzaakt %(damage)s HP schade en vermindert tijdelijk de mobiliteit van alle vijandelijke voertuigen binnen het gebied van effect.\n"
 "\n"
 "*Er zit %(delay)s s tussen de activatie van de bekwaamheid en de eerste ontlading. Het negatieve effect kan met een reparatieset worden verwijderd."
 
@@ -3382,7 +3381,7 @@ msgstr "Elektrische ontlading"
 
 msgid "thunderStrike/shortDescr"
 msgstr ""
-"Creëert een zone waarbinnen zeer regelmatig een reeks van %(thunderCount)s elektrische ontladingen plaatsvindt. Elke ontlading veroorzaakt {whiteSpanish_Open}%(damage)s HP schade{whiteSpanish_Close} en vermindert tijdelijk de mobiliteit van alle vijandelijke voertuigen binnen het gebied van effect.\n"
+"Creëert een zone waarbinnen zeer regelmatig een reeks van %(thunderCount)s elektrische ontladingen plaatsvindt. Elke ontlading veroorzaakt %(damage)s HP schade en vermindert tijdelijk de mobiliteit van alle vijandelijke voertuigen binnen het gebied van effect.\n"
 "\n"
 "*Er zit %(delay)s s tussen de activatie van de bekwaamheid en de eerste ontlading. Het negatieve effect kan met een reparatieset worden verwijderd."
 

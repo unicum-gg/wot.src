@@ -430,6 +430,17 @@ msgstr ""
 msgid "210_bf_epic_desert/name"
 msgstr "Fata Morgana"
 
+msgid "212_epic_random_valley/description"
+msgstr ""
+"Dos masivas montañas rodean este pacífico valle. El espacio está presidido "
+"por las ruinas de un castillo, que domina el lago y bosques cercanos. Los "
+"vastos campos son la oportunidad perfecta para flanqueos rápidos y furtivos,"
+" mientras que una pequeña villa ofrece una ruta más directa hacia la "
+"batalla."
+
+msgid "212_epic_random_valley/name"
+msgstr "Nebelburg"
+
 msgid "212_epic_random_valley_sm25/description"
 msgstr ""
 "En lo alto de las montañas se alza una fortaleza solitaria custodiada por "
@@ -677,6 +688,12 @@ msgstr ""
 
 msgid "99_poland/name"
 msgstr "Studzianki"
+
+msgid "hangar_v4_fortrush/description"
+msgstr "Empty_description"
+
+msgid "hangar_v4_fortrush/name"
+msgstr "Empty_name"
 
 msgid "invalid_map/name"
 msgstr "Mapa no válido"

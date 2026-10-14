@@ -2294,6 +2294,9 @@ msgstr "Vizitează Magazinul"
 msgid "tournament/tokenStore/button/ols"
 msgstr "Conversie"
 
+msgid "tournament/tokenStore/button/wci"
+msgstr "Vizitează Magazinul"
+
 msgid "tournament/tokenStore/ols"
 msgstr "JETOANE OLS"
 
@@ -2349,7 +2352,7 @@ msgstr ""
 msgid "tournamentsEntryPointTooltip/description/wci"
 msgstr ""
 "O încleștare epică se pregătește la World of Tanks Championship "
-"International în Suzhou, China, unde echipele cele mai puternice din "
+"International în Chongqing, China, unde echipele cele mai puternice din "
 "întreaga lume se vor lupta cu regulile modului Violență, concurând pentru "
 "prestigiosul titlul de Campion Mondial. Simte emoțiile legendelor născute pe"
 " câmpul de luptă."
@@ -2358,7 +2361,7 @@ msgid "tournamentsEntryPointTooltip/heading/ols"
 msgstr "Sezonul 7 OLS"
 
 msgid "tournamentsEntryPointTooltip/heading/wci"
-msgstr "WCI'25"
+msgstr "WCI'26"
 
 msgid "tournamentsEntryPointTooltip/live"
 msgstr "Transmisiunile în direct vor fi disponibile timp de %(timer)s"

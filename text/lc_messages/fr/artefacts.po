@@ -3409,7 +3409,7 @@ msgstr ""
 
 msgid "thunderStrike/longDescr"
 msgstr ""
-"Crée une zone dans laquelle une série de %(thunderCount)s décharges électriques frappent à grande fréquence. Chaque décharge inflige {whiteSpanish_Open}%(damage)s PS de dégâts{whiteSpanish_Close} et réduit temporairement la mobilité des véhicules ennemis dans la zone d'effet de cette capacité.\n"
+"Crée une zone dans laquelle une série de %(thunderCount)s décharges électriques frappent à grande fréquence. Chaque décharge inflige %(damage)s PS de dégâts et réduit temporairement la mobilité des véhicules ennemis dans la zone d'effet de cette capacité.\n"
 "\n"
 "*Il y a un délai de %(delay)s s entre l'activation de la capacité et la première décharge. L'effet négatif peut être retiré avec un Kit de réparation."
 
@@ -3418,7 +3418,7 @@ msgstr "Décharge électrique"
 
 msgid "thunderStrike/shortDescr"
 msgstr ""
-"Crée une zone dans laquelle une série de %(thunderCount)s décharges électriques frappent à grande fréquence. Chaque décharge inflige {whiteSpanish_Open}%(damage)s PS de dégâts{whiteSpanish_Close} et réduit temporairement la mobilité des véhicules ennemis dans la zone d'effet de cette capacité.\n"
+"Crée une zone dans laquelle une série de %(thunderCount)s décharges électriques frappent à grande fréquence. Chaque décharge inflige %(damage)s PS de dégâts et réduit temporairement la mobilité des véhicules ennemis dans la zone d'effet de cette capacité.\n"
 "\n"
 "*Il y a un délai de %(delay)s s entre l'activation de la capacité et la première décharge. L'effet négatif peut être retiré avec un Kit de réparation."
 

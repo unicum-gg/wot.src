@@ -397,6 +397,16 @@ msgstr ""
 msgid "210_bf_epic_desert/name"
 msgstr "Fatamorgana"
 
+msgid "212_epic_random_valley/description"
+msgstr ""
+"Dve masivne planine okružuju ovu mirnu dolinu. Nad dolinom stražari ostatak "
+"starog zamka, koji vlada nad jezerom i šumom. Velika polja su savršena za "
+"brzo i nečujno prikradanje, dok je malo selo savršeno za direktniji prilaz "
+"borbi."
+
+msgid "212_epic_random_valley/name"
+msgstr "Nebelburg"
+
 msgid "212_epic_random_valley_sm25/description"
 msgstr ""
 "Visoko u planinama stoji usamljena tvrđava zaposednuta nemačkim garnizonom. "
@@ -631,6 +641,12 @@ msgstr ""
 
 msgid "99_poland/name"
 msgstr "Studzianki"
+
+msgid "hangar_v4_fortrush/description"
+msgstr "Empty_description"
+
+msgid "hangar_v4_fortrush/name"
+msgstr "Empty_name"
 
 msgid "invalid_map/name"
 msgstr "Nepravilna mapa"

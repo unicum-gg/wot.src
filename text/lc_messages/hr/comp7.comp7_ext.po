@@ -2276,6 +2276,9 @@ msgstr "Posjeti prodavaonicu"
 msgid "tournament/tokenStore/button/ols"
 msgstr "Razmjeni"
 
+msgid "tournament/tokenStore/button/wci"
+msgstr "Posjeti prodavaonicu"
+
 msgid "tournament/tokenStore/ols"
 msgstr "OLS TOKENI"
 
@@ -2331,15 +2334,15 @@ msgstr ""
 msgid "tournamentsEntryPointTooltip/description/wci"
 msgstr ""
 "Epski sudar će se odviti na World of Tanks Championship International u "
-"Suzhou u Kini gdje će se najžešći timovi iz cijelog svijeta sukobiti pod "
-"pravilima režima Navale u želji za prestižnom titulom svjetskog prvaka. "
+"Chongqingu u Kini gdje će se najžešći timovi iz cijelog svijeta sukobiti pod"
+" pravilima režima Navale u želji za prestižnom titulom svjetskog prvaka. "
 "Doživite uzbuđenje dok se legende rađaju na bojištu!"
 
 msgid "tournamentsEntryPointTooltip/heading/ols"
 msgstr "OLS sezona 7"
 
 msgid "tournamentsEntryPointTooltip/heading/wci"
-msgstr "WCI'25"
+msgstr "WCI'26"
 
 msgid "tournamentsEntryPointTooltip/live"
 msgstr "Prijenosi uživo će biti dostupni za %(timer)s"

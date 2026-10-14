@@ -3269,7 +3269,7 @@ msgstr ""
 
 msgid "thunderStrike/longDescr"
 msgstr ""
-"Sukuria teritoriją, kurioje dažnai smogia %(thunderCount)s elektros iškrovos. Kiekviena iškrova padaro {whiteSpanish_Open}%(damage)s žalos{whiteSpanish_Close} mašinai ir laikinai sumažina priešo mašinos mobilumą gebėjimo veikimo lauke.\n"
+"Sukuria teritoriją, kurioje dažnai smogia %(thunderCount)s elektros iškrovos. Kiekviena iškrova padaro %(damage)s žalos mašinai ir laikinai sumažina priešo mašinos mobilumą gebėjimo veikimo lauke.\n"
 "\n"
 "*Pirmoji iškrova įvyksta praėjus %(delay)s s nuo gebėjimo aktyvavimo. Jo neigiamą efektą galima sumažinti su remonto komplektu."
 
@@ -3278,7 +3278,7 @@ msgstr "Elektros iškrova"
 
 msgid "thunderStrike/shortDescr"
 msgstr ""
-"Sukuria teritoriją, kurioje dažnai smogia %(thunderCount)s elektros iškrovos. Kiekviena iškrova padaro {whiteSpanish_Open}%(damage)s žalos{whiteSpanish_Close} mašinai ir laikinai sumažina priešo mašinos mobilumą gebėjimo veikimo lauke.\n"
+"Sukuria teritoriją, kurioje dažnai smogia %(thunderCount)s elektros iškrovos. Kiekviena iškrova padaro %(damage)s žalos mašinai ir laikinai sumažina priešo mašinos mobilumą gebėjimo veikimo lauke.\n"
 "\n"
 "*Pirmoji iškrova įvyksta praėjus %(delay)s s nuo gebėjimo aktyvavimo. Jo neigiamą efektą galima sumažinti su remonto komplektu."
 

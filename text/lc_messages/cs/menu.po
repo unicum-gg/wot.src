@@ -630,8 +630,7 @@ msgid "booster/bonus/booster_free_xp_and_crew_xp"
 msgstr "%(effectValue)s k volným ZK a ZK posádky na %(effectHours)s"
 
 msgid "booster/bonus/booster_xp"
-msgstr ""
-"%(effectValue)s bonus na %(effectHours)s ke zkušenostem získaným v bitvě"
+msgstr "%(effectValue)s k bojovým ZK na %(effectHours)s"
 
 msgid "booster/description/bonusValueTime/booster_credits"
 msgstr "%(effectValue)s bonus ke kreditům získaným v bitvě na %(effectTime)s"
@@ -4443,6 +4442,9 @@ msgstr ""
 msgid "moduleInfo/closeBtn"
 msgstr "Zavřít"
 
+msgid "moduleInfo/combatThrottle"
+msgstr "Bojová škrtící klapka"
+
 msgid "moduleInfo/compatible/clipVehicles"
 msgstr "Vybaveno systémem nabíjení zásobníku na vozidlech:"
 
@@ -6518,6 +6520,12 @@ msgstr "(kus(ů))"
 
 msgid "tank_params/coincidenceElectromechanicalSightDuration"
 msgstr "Doba trvání Koincidenčního elektromechanického zaměřovače"
+
+msgid "tank_params/combatThrottleCooldown"
+msgstr "Obnovení"
+
+msgid "tank_params/combatThrottleDuration"
+msgstr "Trvání"
 
 msgid "tank_params/concentrationModeCooldown"
 msgstr "Obnovení"

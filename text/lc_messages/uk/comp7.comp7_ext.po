@@ -2284,6 +2284,9 @@ msgstr "Відвідати Магазин"
 msgid "tournament/tokenStore/button/ols"
 msgstr "Обміняти"
 
+msgid "tournament/tokenStore/button/wci"
+msgstr "Відвідати Магазин"
+
 msgid "tournament/tokenStore/ols"
 msgstr "ЖЕТОНИ СЛН"
 
@@ -2338,8 +2341,8 @@ msgstr ""
 
 msgid "tournamentsEntryPointTooltip/description/wci"
 msgstr ""
-"У місті Сучжоу, Китай, розгорнуться епічні баталії в межах міжнародного "
-"чемпіонату World of Tanks, де найгрізніші команди з усього світу "
+"У місті Чунцін, Китай, розгорнуться епічні баталії в межах події «World of "
+"Tanks: міжнародний чемпіонат», де найгрізніші команди з усього світу "
 "змагатимуться за правилами режиму «Натиск» заради престижного титулу "
 "чемпіона світу. Відчуйте щирий захват, споглядаючи, як на полі бою "
 "народжуються нові легенди!"
@@ -2348,7 +2351,7 @@ msgid "tournamentsEntryPointTooltip/heading/ols"
 msgstr "7-Й СЕЗОН OLS"
 
 msgid "tournamentsEntryPointTooltip/heading/wci"
-msgstr "WCI 2025"
+msgstr "WCI 2026"
 
 msgid "tournamentsEntryPointTooltip/live"
 msgstr "Трансляції будуть доступні %(timer)s"

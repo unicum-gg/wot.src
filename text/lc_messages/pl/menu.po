@@ -630,8 +630,7 @@ msgid "booster/bonus/booster_free_xp_and_crew_xp"
 msgstr "%(effectValue)s do wolnych PD i PD załogi przez %(effectHours)s"
 
 msgid "booster/bonus/booster_xp"
-msgstr ""
-"Bonus %(effectValue)s na %(effectHours)s do doświadczenia zdobytego w bitwie"
+msgstr "%(effectValue)s do PD bojowego przez %(effectHours)s"
 
 msgid "booster/description/bonusValueTime/booster_credits"
 msgstr ""
@@ -4469,6 +4468,9 @@ msgstr ""
 msgid "moduleInfo/closeBtn"
 msgstr "Zamknij"
 
+msgid "moduleInfo/combatThrottle"
+msgstr "Bojowa przepustnica"
+
 msgid "moduleInfo/compatible/clipVehicles"
 msgstr "Wyposażony w magazynowy system ładowania w pojazdach:"
 
@@ -6558,6 +6560,12 @@ msgstr "(szt.)"
 
 msgid "tank_params/coincidenceElectromechanicalSightDuration"
 msgstr "Czas trwania Elektromechanicznego celownika zbieżności"
+
+msgid "tank_params/combatThrottleCooldown"
+msgstr "Przygotowanie"
+
+msgid "tank_params/combatThrottleDuration"
+msgstr "Czas trwania"
 
 msgid "tank_params/concentrationModeCooldown"
 msgstr "Przygotowanie"

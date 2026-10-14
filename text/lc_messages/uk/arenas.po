@@ -404,6 +404,16 @@ msgstr ""
 msgid "210_bf_epic_desert/name"
 msgstr "Фата-моргана"
 
+msgid "212_epic_random_valley/description"
+msgstr ""
+"Дві величні гори підносяться над цією тихою долиною. Руїни замку розташовані"
+" на березі озера біля лісу. Безкраї поля надають чудову можливість швидко й "
+"непомітно обійти супротивника. Крізь невелике село пролягає шлях для тих, "
+"хто віддає перевагу відкритому бою."
+
+msgid "212_epic_random_valley/name"
+msgstr "Нібельбурґ"
+
 msgid "212_epic_random_valley_sm25/description"
 msgstr ""
 "Високо в горах стоїть самотня фортеця, зайнята німецьким гарнізоном. Надворі"
@@ -643,6 +653,12 @@ msgstr ""
 
 msgid "99_poland/name"
 msgstr "Студзянки"
+
+msgid "hangar_v4_fortrush/description"
+msgstr "Порожній_опис"
+
+msgid "hangar_v4_fortrush/name"
+msgstr "Порожня_назва"
 
 msgid "invalid_map/name"
 msgstr "Неправильна мапа"

@@ -2282,6 +2282,9 @@ msgstr "Gå til butikken"
 msgid "tournament/tokenStore/button/ols"
 msgstr "Veksle"
 
+msgid "tournament/tokenStore/button/wci"
+msgstr "Gå til butikken"
+
 msgid "tournament/tokenStore/ols"
 msgstr "OLS POLLETTER"
 
@@ -2336,7 +2339,7 @@ msgstr ""
 msgid "tournamentsEntryPointTooltip/description/wci"
 msgstr ""
 "Et episk sammenstøt kommer til å skje i World of Tanks Championship "
-"International i Suzhou, Kina, der de beste lagene fra hele verden møtes "
+"International i Chongqing, Kina, der de beste lagene fra hele verden møtes "
 "under reglene for Onslaught modusen, og der de alle sikter mot den "
 "prestisjefylte tittelen som verdensmester. Opplev spenningen når legender "
 "blir til på slagmarken!"
@@ -2345,7 +2348,7 @@ msgid "tournamentsEntryPointTooltip/heading/ols"
 msgstr "OLS 7. sesong"
 
 msgid "tournamentsEntryPointTooltip/heading/wci"
-msgstr "WCI'25"
+msgstr "WCI'26"
 
 msgid "tournamentsEntryPointTooltip/live"
 msgstr "Direktestrømmer blir tilgjengelige i %(timer)s"

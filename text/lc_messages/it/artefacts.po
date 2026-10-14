@@ -3417,7 +3417,7 @@ msgstr ""
 
 msgid "thunderStrike/longDescr"
 msgstr ""
-"Crea una zona in cui si abbatte una serie di %(thunderCount)s scariche elettriche ad alta frequenza. Ogni scarica causa {whiteSpanish_Open}%(damage)s HP di danno{whiteSpanish_Close} e riduce temporaneamente la mobilità di tutti i veicoli nemici all'interno dell'area d'effetto dell'abilità.\n"
+"Crea una zona in cui si abbatte una serie di %(thunderCount)s scariche elettriche ad alta frequenza. Ogni scarica causa %(damage)s HP di danno e riduce temporaneamente la mobilità di tutti i veicoli nemici all'interno dell'area d'effetto dell'abilità.\n"
 "\n"
 "*Tra l'attivazione dell'abilità e la prima scarica, è presente un ritardo di %(delay)s s. L'effetto negativo può essere rimosso da un Kit di riparazione."
 
@@ -3426,7 +3426,7 @@ msgstr "Scarica elettrica"
 
 msgid "thunderStrike/shortDescr"
 msgstr ""
-"Crea una zona in cui si abbatte una serie di %(thunderCount)s scariche elettriche ad alta frequenza. Ogni scarica causa {whiteSpanish_Open}%(damage)s HP di danno{whiteSpanish_Close} e riduce temporaneamente la mobilità di tutti i veicoli nemici all'interno dell'area d'effetto dell'abilità.\n"
+"Crea una zona in cui si abbatte una serie di %(thunderCount)s scariche elettriche ad alta frequenza. Ogni scarica causa %(damage)s HP di danno e riduce temporaneamente la mobilità di tutti i veicoli nemici all'interno dell'area d'effetto dell'abilità.\n"
 "\n"
 "*Tra l'attivazione dell'abilità e la prima scarica, è presente un ritardo di %(delay)s s. L'effetto negativo può essere rimosso da un Kit di riparazione."
 

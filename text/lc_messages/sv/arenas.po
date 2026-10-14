@@ -398,6 +398,15 @@ msgstr ""
 msgid "210_bf_epic_desert/name"
 msgstr "Fata Morgana"
 
+msgid "212_epic_random_valley/description"
+msgstr ""
+"Två massiva berg flankerar denna fridfulla dalgång. En slottsruin vakar över"
+" sjö och skog. Vidsträckta fält är perfekt för snabba flankanfall samtidigt "
+"som den lilla byn kan ge en skyddad väg rakt in i stridens centrum."
+
+msgid "212_epic_random_valley/name"
+msgstr "Nebelburg"
+
 msgid "212_epic_random_valley_sm25/description"
 msgstr ""
 "Högt uppe i bergen står en enslig fästning bemannad av en tysk garnison. "
@@ -633,6 +642,12 @@ msgstr ""
 
 msgid "99_poland/name"
 msgstr "Studzianki"
+
+msgid "hangar_v4_fortrush/description"
+msgstr "empty_description"
+
+msgid "hangar_v4_fortrush/name"
+msgstr "empty_name"
 
 msgid "invalid_map/name"
 msgstr "Ogiltig karta"

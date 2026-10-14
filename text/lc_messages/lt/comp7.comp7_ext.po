@@ -2279,6 +2279,9 @@ msgstr "Apsilankyti parduotuvėje"
 msgid "tournament/tokenStore/button/ols"
 msgstr "Konvertavimas"
 
+msgid "tournament/tokenStore/button/wci"
+msgstr "Apsilankyti parduotuvėje"
+
 msgid "tournament/tokenStore/ols"
 msgstr "PLT ŽETONAI"
 
@@ -2333,16 +2336,16 @@ msgstr ""
 
 msgid "tournamentsEntryPointTooltip/description/wci"
 msgstr ""
-"Neužmirštamos kovos vyks World of Tanks tarptautiniame čempionate, Sudžou, "
-"Kinijoje, kur geriausios viso pasaulio komandos susikaus pagal Prasiveržimo "
-"taisykles dėl prestižinio pasaulio čempiono titulo. Pamatykite kaip mūšio "
-"lauke užgimsta legendos!"
+"Neužmirštamos kovos vyks World of Tanks tarptautiniame čempionate, "
+"Čongčinge, Kinijoje, kur geriausios viso pasaulio komandos susikaus pagal "
+"Prasiveržimo taisykles dėl prestižinio pasaulio čempiono titulo. Pamatykite "
+"kaip mūšio lauke užgimsta legendos!"
 
 msgid "tournamentsEntryPointTooltip/heading/ols"
 msgstr "OLS 7 sezonas"
 
 msgid "tournamentsEntryPointTooltip/heading/wci"
-msgstr "WCI'25"
+msgstr "WCI'26"
 
 msgid "tournamentsEntryPointTooltip/live"
 msgstr "Tiesioginės transliacijos tęsis dar %(timer)s"

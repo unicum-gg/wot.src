@@ -630,7 +630,7 @@ msgstr ""
 "%(effectHours)s için Serbest DP'ye ve Mürettebat DP'sine %(effectValue)s"
 
 msgid "booster/bonus/booster_xp"
-msgstr "Savaşta kazanılan deneyime %(effectHours)s boyunca %(effectValue)s"
+msgstr "%(effectHours)s için Savaş DP'sine %(effectValue)s"
 
 msgid "booster/description/bonusValueTime/booster_credits"
 msgstr ""
@@ -4452,6 +4452,9 @@ msgstr ""
 msgid "moduleInfo/closeBtn"
 msgstr "Kapat"
 
+msgid "moduleInfo/combatThrottle"
+msgstr "Savaş Gaz Pedalı"
+
 msgid "moduleInfo/compatible/clipVehicles"
 msgstr "Araçlarda şarjör yükleme sistemiyle takılır:"
 
@@ -6529,6 +6532,12 @@ msgstr "(adet)"
 
 msgid "tank_params/coincidenceElectromechanicalSightDuration"
 msgstr "İntibaklı Elektromekanik Nişangâh Süresi"
+
+msgid "tank_params/combatThrottleCooldown"
+msgstr "Soğuma"
+
+msgid "tank_params/combatThrottleDuration"
+msgstr "Süre"
 
 msgid "tank_params/concentrationModeCooldown"
 msgstr "Soğuma"

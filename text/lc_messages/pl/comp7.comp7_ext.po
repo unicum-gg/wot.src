@@ -2287,6 +2287,9 @@ msgstr "Odwiedź Sklep"
 msgid "tournament/tokenStore/button/ols"
 msgstr "Wymień"
 
+msgid "tournament/tokenStore/button/wci"
+msgstr "Odwiedź sklep"
+
 msgid "tournament/tokenStore/ols"
 msgstr "ŻETONY SLN"
 
@@ -2341,17 +2344,17 @@ msgstr ""
 
 msgid "tournamentsEntryPointTooltip/description/wci"
 msgstr ""
-"Na Międzynarodowych Mistrzostwach World of Tanks w Suzhou w Chinach czekają "
-"nas epickie starcia, w których najgroźniejsze drużyny z całego świata staną "
-"naprzeciw siebie w pojedynkach toczonych na zasadach trybu Natarcie, walcząc"
-" o prestiżowy tytuł mistrza świata. Poczuj dreszczyk emocji, gdy na polu "
-"bitwy rodzą się legendy!"
+"Na Międzynarodowych Mistrzostwach World of Tanks w Chongqing w Chinach "
+"czekają nas epickie starcia, w których najgroźniejsze drużyny z całego "
+"świata staną naprzeciw siebie w pojedynkach toczonych na zasadach trybu "
+"Natarcie, walcząc o prestiżowy tytuł Mistrza Świata. Poczujcie dreszczyk "
+"emocji, gdy na polu bitwy rodzą się legendy!"
 
 msgid "tournamentsEntryPointTooltip/heading/ols"
 msgstr "OLS, sezon 7"
 
 msgid "tournamentsEntryPointTooltip/heading/wci"
-msgstr "WCI'25"
+msgstr "WCI'26"
 
 msgid "tournamentsEntryPointTooltip/live"
 msgstr "Streamy na żywo będą dostępne przez %(timer)s"
