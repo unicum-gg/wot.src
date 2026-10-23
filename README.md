@@ -1,6 +1,6 @@
 # MT.RU.PRODUCTION
 
-Decompiled World of Tanks sources for `MT.RU.PRODUCTION`, currently 1.46.0.5277.
+Decompiled World of Tanks sources for `MT.RU.PRODUCTION`, currently 1.46.0.5281.
 
 Rebuilt daily from Wargaming's update CDN by the generator on
 [`main`](../../tree/main), with no game client installed. Every file here is
