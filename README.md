@@ -43,4 +43,4 @@ Catalogues published: `arenas`, `artefacts`, `crew_perks`, `veh_skill_tree`, `me
 | `pt_br` | NA |
 | `zh_cn` | CN |
 
-Client versions: EU 2.4.2.5520, ASIA 2.4.2.5526, NA 2.4.2.5522, CN 2.4.2.5519.
+Client versions: EU 2.4.2.5520, ASIA 2.4.2.5526, NA 2.4.2.5523, CN 2.4.2.5519.

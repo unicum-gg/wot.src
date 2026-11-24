@@ -4873,6 +4873,15 @@ msgstr "Potencia del motor (Turbo)"
 msgid "moduleInfo/params/weight"
 msgstr "Peso"
 
+msgid "moduleInfo/paramsSeparator/colon"
+msgstr ":"
+
+msgid "moduleInfo/paramsSeparator/dash"
+msgstr "–"
+
+msgid "moduleInfo/paramsSeparator/slash"
+msgstr "/"
+
 msgid "moduleInfo/propellantAfterburnerGun"
 msgstr "Postquemador con propulsor por inducción que aumenta el daño promedio"
 
