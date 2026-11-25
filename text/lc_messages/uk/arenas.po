@@ -654,12 +654,6 @@ msgstr ""
 msgid "99_poland/name"
 msgstr "Студзянки"
 
-msgid "hangar_v4_fortrush/description"
-msgstr "Порожній_опис"
-
-msgid "hangar_v4_fortrush/name"
-msgstr "Порожня_назва"
-
 msgid "invalid_map/name"
 msgstr "Неправильна мапа"
 

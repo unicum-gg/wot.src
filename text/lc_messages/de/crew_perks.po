@@ -1243,7 +1243,7 @@ msgstr ""
 "%(shellVelocity)s&zwnbsp;."
 
 msgid "loader_perfectCharge/name"
-msgstr "Perfekter Ansturm"
+msgstr "Perfekter Ladung"
 
 msgid "loader_secondChance/alt/description"
 msgstr ""
